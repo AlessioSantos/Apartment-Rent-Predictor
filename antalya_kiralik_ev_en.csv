@@ -1,0 +1,736 @@
+Neighborhood,Total_Area_m2,Living_Area_m2,Rooms,Building_Age,Floor,Total_Floors,Heating_Type,Bathrooms,Balcony,Elevator,Parking,Furnished,In_Residential_Complex,Maintenance_Fee,Deposit,Price_USD
+Bayindir Mh.,90.0,80.0,2+1,Between 21-25,Ground floor,4.0,Air conditioning,1.0,0,0,Open Parking Lot,1,0,100,15000,508.47457627118644
+Caybasi Mh.,145.0,135.0,3+1,0,1,5.0,Combi Boiler (Natural Gas),1.0,1,1,Parking Garage,0,1,1500,30000,983.0508474576271
+Guzeloba Mh.,145.0,130.0,3+1,Between 11-15,3,4.0,Air conditioning,1.0,1,0,Open Parking Lot,0,0,500,25000,838.9830508474577
+Sirinyalı Mh.,230.0,200.0,3+1,Between 5-10,2,3.0,Natural Gas Stove,2.0,0,0,Open Parking Lot,1,0,0,30000,1016.9491525423729
+Caglayan Mh.,320.0,300.0,4+2,Between 16-20,8,8.0,Air conditioning,3.0,1,1,Open Parking Lot,0,1,0,37500,1271.1864406779662
+Kizilsaray Mh.,140.0,130.0,3+1,Between 26-30,Entry Bottom Jeans 2,10.0,Air conditioning,1.0,1,1,None,1,0,0,50000,847.457627118644
+Zerdalilik Mah.,120.0,115.0,3+1,31 and over,1,3.0,Air conditioning,1.0,1,0,Open Parking Lot,0,0,100,13000,440.6779661016949
+Kizilarik Mh.,100.0,90.0,2+1,Between 5-10,3,4.0,Air conditioning,1.0,1,1,Open Parking Lot,0,0,0,0,474.5762711864407
+Meydankavagi Mh.,155.0,145.0,3+1,Between 11-15,6,9.0,Combi Boiler (Natural Gas),1.0,1,1,Open Parking Lot,0,1,0,25000,847.457627118644
+Yenigun Mh.,85.0,80.0,2+1,Between 21-25,4,4.0,Air conditioning,1.0,1,0,None,0,0,0,22000,389.8305084745763
+Meltem Mah.,130.0,120.0,3+1,Between 26-30,1,8.0,Air conditioning,1.0,1,1,Open Parking Lot,1,1,0,44000,813.5593220338983
+Elmali Mh.,40.0,35.0,1+1,31 and over,4,4.0,Underfloor Heating,1.0,0,0,None,1,0,0,0,535.5932203389831
+Security Mh.,25.0,20.0,Studio (1+0),1,1,5.0,Air conditioning,1.0,0,0,Open Parking Lot,1,0,0,10000,372.8813559322034
+Gebizli Mah.,70.0,60.0,1+1,Between 5-10,Ground floor,4.0,Air conditioning,1.0,0,1,Open Parking Lot,0,0,0,0,508.47457627118644
+Muratpasa Mh.,100.0,95.0,2+1,Between 21-25,4,4.0,Air conditioning,1.0,1,0,None,0,0,0,0,423.728813559322
+Caglayan Mh.,70.0,60.0,1+1,Between 11-15,Ground floor,11.0,None,1.0,0,1,Open Parking Lot,0,1,1200,13000,440.6779661016949
+Guzeloba Mh.,75.0,70.0,1+1,Between 21-25,High Entry,2.0,Air conditioning,1.0,1,0,Open Parking Lot,1,1,0,15000,508.47457627118644
+Caglayan Mh.,245.0,225.0,4+1,Between 5-10,4,4.0,Combi Boiler (Natural Gas),3.0,1,1,Open & Closed Parking Lot,0,1,2000,60000,1864.406779661017
+Guzeloba Mh.,65.0,60.0,1+1,Between 5-10,High Entry,2.0,Boiler (Electric),1.0,1,0,Open Parking Lot,1,0,0,30000,576.271186440678
+Guzeloba Mh.,170.0,160.0,3+1,Between 5-10,2,2.0,Air conditioning,2.0,1,0,Open Parking Lot,1,0,0,0,983.0508474576271
+Caglayan Mh.,60.0,55.0,1+1,Between 11-15,Ground floor,4.0,Air conditioning,1.0,1,1,Open Parking Lot,0,0,0,18000,610.1694915254237
+Etiler Mah.,120.0,110.0,3+1,Between 21-25,Ground floor,3.0,None,1.0,1,0,Open Parking Lot,0,0,50,20000,457.6271186440678
+Fener Mah.,200.0,190.0,3+1,Between 16-20,1,11.0,Air conditioning,1.0,1,1,Open Parking Lot,0,0,0,40000,1355.9322033898304
+Guzeloba Mh.,210.0,180.0,4+1,Between 5-10,2,3.0,Air conditioning,2.0,1,0,Open Parking Lot,1,0,50,50000,1355.9322033898304
+Sirinyalı Mh.,165.0,150.0,3+1,Between 21-25,3,4.0,Combi Boiler (Natural Gas),2.0,1,1,Open Parking Lot,1,0,0,50000,847.457627118644
+Yuksekalan Mh.,105.0,95.0,2+1,Between 11-15,4,5.0,Air conditioning,2.0,1,1,Open Parking Lot,0,0,100,16000,542.3728813559322
+Guzeloba Mh.,160.0,150.0,3+1,Between 11-15,Ground floor,4.0,Air conditioning,1.0,1,0,Open Parking Lot,0,1,0,80000,1525.4237288135594
+Caglayan Mh.,120.0,110.0,2+1,Between 5-10,7,10.0,Combi Boiler (Natural Gas),2.0,1,1,Open & Closed Parking Lot,0,1,2910,50000,1864.406779661017
+Guzeloba Mh.,90.0,80.0,2+1,Between 16-20,2,3.0,Air conditioning,1.0,1,1,Open Parking Lot,1,0,100,15000,508.47457627118644
+Meydankavagi Mh.,150.0,140.0,3+1,Between 16-20,1,8.0,Air conditioning,1.0,1,1,Open Parking Lot,0,0,0,16500,559.3220338983051
+Elmali Mh.,150.0,140.0,3+1,31 and over,4,7.0,Air conditioning,1.0,1,1,None,0,1,500,25000,847.457627118644
+Varlik Mh.,135.0,125.0,3+1,Between 21-25,1,5.0,Air conditioning,1.0,1,0,Open Parking Lot,1,0,0,0,508.47457627118644
+Fener Mah.,50.0,45.0,1+1,Between 16-20,3,15.0,Air conditioning,1.0,0,1,Open Parking Lot,1,0,750,19000,644.0677966101695
+Hospitable Mah.,100.0,90.0,2+1,Between 16-20,3,3.0,None,1.0,1,0,Open Parking Lot,0,0,100,15000,508.47457627118644
+Doguyaka Mh.,100.0,85.0,2+1,Between 5-10,1,5.0,Combi Boiler (Natural Gas),1.0,1,1,Open Parking Lot,1,0,300,30000,677.9661016949152
+Fener Mah.,210.0,190.0,3+1,Between 21-25,11,13.0,Combi Boiler (Natural Gas),1.0,1,1,Open & Closed Parking Lot,0,1,70000,0,2372.8813559322034
+Bayindir Mh.,145.0,130.0,3+1,Between 21-25,2,4.0,Air conditioning,1.0,1,0,Open Parking Lot,1,0,70,20000,610.1694915254237
+Hashemiscan Mh.,135.0,125.0,3+1,Between 21-25,6,7.0,None,2.0,1,1,None,0,0,0,27000,813.5593220338983
+Yuksekalan Mh.,120.0,110.0,2+1,4,3,4.0,Combi Boiler (Natural Gas),2.0,1,1,Open Parking Lot,1,0,0,23000,779.6610169491526
+Youth Mh.,145.0,120.0,3+1,Between 26-30,5,7.0,Air conditioning,1.0,1,1,None,1,0,165,50000,881.3559322033898
+Sirinyalı Mh.,170.0,160.0,2+1,Between 16-20,High Entry,6.0,Air conditioning,2.0,1,1,None,1,0,0,0,1016.9491525423729
+Caybasi Mh.,85.0,70.0,2+1,Between 11-15,1,5.0,Air conditioning,1.0,0,1,None,0,0,300,16000,542.3728813559322
+Guzeloba Mh.,90.0,85.0,2+1,Between 5-10,1,2.0,Air conditioning,2.0,1,0,Open Parking Lot,1,1,1200,30000,1016.9491525423729
+Yuksekalan Mh.,100.0,90.0,2+1,Between 26-30,4,7.0,Air conditioning,1.0,1,1,None,0,0,250,25000,711.8644067796611
+Guzeloba Mh.,55.0,50.0,1+1,3,2,2.0,Air conditioning,1.0,0,1,Parking Garage,1,1,1000,35000,711.8644067796611
+Elmali Mh.,60.0,50.0,1+1,31 and over,1,7.0,Air conditioning,1.0,0,1,None,1,0,250,0,508.47457627118644
+Kizilarik Mh.,130.0,120.0,3+1,Between 5-10,2,4.0,Air conditioning,1.0,1,1,Open Parking Lot,0,0,0,18500,627.1186440677966
+Guzeloba Mh.,55.0,50.0,1+1,Between 5-10,High Entry,2.0,Air conditioning,1.0,1,0,Open Parking Lot,1,0,200,25000,457.6271186440678
+Fener Mah.,70.0,60.0,1+1,Between 5-10,Garden Floor,2.0,Air conditioning,1.0,0,0,None,1,0,0,21000,711.8644067796611
+Bayindir Mh.,100.0,95.0,2+1,4,1,4.0,Combi Boiler (Natural Gas),1.0,1,1,Open Parking Lot,1,0,0,0,830.5084745762712
+Fener Mah.,185.0,175.0,3+1,Between 26-30,9,10.0,Combi Boiler (Natural Gas),1.0,1,1,Open Parking Lot,0,0,300,48000,1627.1186440677966
+Guzeloba Mh.,95.0,90.0,2+1,2,2,2.0,Air conditioning,1.0,1,0,Parking Garage,0,1,1000,50000,1186.4406779661017
+Sedir Mah.,105.0,90.0,2+1,0,3,4.0,Combi Boiler (Natural Gas),1.0,1,1,Open Parking Lot,0,0,350,44000,745.7627118644068
+Yesilbahce Mh.,75.0,60.0,1+1,Between 11-15,High Entry,4.0,Air conditioning,1.0,1,0,Open Parking Lot,1,1,200,25000,508.47457627118644
+Sinan Mah.,110.0,100.0,2+1,4,3,4.0,Air conditioning,2.0,1,0,None,1,0,0,30000,677.9661016949152
+Caglayan Mh.,160.0,130.0,3+1,Between 21-25,3,6.0,Air conditioning,2.0,1,1,Open Parking Lot,0,0,0,0,677.9661016949152
+Fener Mah.,230.0,220.0,3+1,Between 21-25,2,8.0,Combi Boiler (Natural Gas),1.0,1,1,Open Parking Lot,0,0,300,0,915.2542372881356
+Etiler Mah.,110.0,100.0,2+1,Between 16-20,3,3.0,Air conditioning,1.0,1,0,Open Parking Lot,1,0,150,15000,508.47457627118644
+Sea District.,100.0,85.0,2+1,31 and over,1,4.0,Air conditioning,1.0,1,0,None,0,0,0,15000,508.47457627118644
+Sea District.,152.0,140.0,3+1,Between 26-30,6,7.0,Combi Boiler (Natural Gas),1.0,1,1,None,0,0,0,0,847.457627118644
+Kizilarik Mh.,100.0,90.0,2+1,Between 5-10,3,4.0,Stove,1.0,1,1,None,0,0,0,0,440.6779661016949
+Youth Mh.,105.0,95.0,2+1,Between 5-10,2,6.0,Combi Boiler (Natural Gas),2.0,1,1,Open Parking Lot,0,0,1500,35000,1440.677966101695
+Caybasi Mh.,100.0,90.0,2+1,Between 5-10,Garden Floor,5.0,Air conditioning,1.0,1,0,Open Parking Lot,0,0,150,21500,728.8135593220339
+Etiler Mah.,145.0,140.0,3+1,Between 21-25,Ground floor,3.0,Air conditioning,1.0,1,0,Open Parking Lot,0,0,0,20000,457.6271186440678
+Caglayan Mh.,80.0,65.0,1+1,Between 16-20,4,4.0,Air conditioning,1.0,1,1,Open Parking Lot,1,0,100,15000,508.47457627118644
+Guzeloba Mh.,110.0,100.0,2+1,0,2,2.0,Combi Boiler (Natural Gas),2.0,1,0,None,1,0,1000,25000,847.457627118644
+Guzeloba Mh.,105.0,90.0,2+1,Between 21-25,Villa Type,2.0,Air conditioning,1.0,1,0,Open Parking Lot,1,0,0,20000,677.9661016949152
+Guzeloba Mh.,65.0,60.0,1+1,Between 11-15,High Entry,6.0,Combi Boiler (Natural Gas),1.0,1,1,Open Parking Lot,1,1,1000,19000,644.0677966101695
+Caglayan Mh.,70.0,60.0,1+1,4,3,3.0,Air conditioning,1.0,1,1,Open Parking Lot,1,0,0,20000,677.9661016949152
+Fener Mah.,210.0,190.0,3+1,Between 21-25,11,13.0,Combi Boiler (Natural Gas),1.0,1,1,Open & Closed Parking Lot,1,1,0,160000,2711.864406779661
+Meydankavagi Mh.,110.0,90.0,2+1,4,1,4.0,Air conditioning,1.0,1,1,Open Parking Lot,1,0,0,25000,847.457627118644
+Caglayan Mh.,45.0,40.0,1+1,Between 5-10,High Entry,4.0,Air conditioning,1.0,1,1,Open Parking Lot,0,0,400,20000,508.47457627118644
+Fener Mah.,180.0,160.0,3+1,Between 16-20,13,14.0,Air conditioning,2.0,1,1,Open Parking Lot,0,0,700,30000,949.1525423728814
+Guzeloba Mh.,80.0,70.0,2+1,Between 16-20,High Entry,2.0,None,1.0,1,0,Open Parking Lot,0,1,50,13000,440.6779661016949
+Altindag Mh.,130.0,94.0,3+1,31 and over,7,7.0,Air conditioning,1.0,1,1,Open Parking Lot,0,0,150,14000,474.5762711864407
+Sirinyalı Mh.,200.0,180.0,4+1,Between 16-20,5,12.0,Combi Boiler (Natural Gas),2.0,1,1,Open & Closed Parking Lot,0,1,0,0,2542.3728813559323
+Muratpasa Mh.,135.0,125.0,2+1,Between 21-25,3,4.0,Air conditioning,1.0,1,0,Open Parking Lot,0,0,0,14000,440.6779661016949
+Guzeloba Mh.,85.0,75.0,1+1,Between 16-20,Garden Floor,2.0,Combi Boiler (Natural Gas),1.0,1,0,Open Parking Lot,1,1,1000,20000,508.47457627118644
+Caglayan Mh.,190.0,175.0,3+1,Between 5-10,3,9.0,Combi Boiler (Natural Gas),2.0,1,1,Open Parking Lot,0,1,1000,70000,1186.4406779661017
+Security Mh.,90.0,75.0,2+1,Between 5-10,2,3.0,None,1.0,1,1,Open Parking Lot,0,0,0,16000,542.3728813559322
+Sirinyalı Mh.,210.0,190.0,5+1,Between 16-20,12,13.0,None,2.0,1,1,Open Parking Lot,0,0,900,0,1016.9491525423729
+Gebizli Mah.,100.0,85.0,2+1,Between 11-15,4,6.0,Air conditioning,1.0,1,1,Open Parking Lot,1,1,0,18500,627.1186440677966
+Fener Mah.,115.0,110.0,3+1,Between 11-15,11,13.0,Air conditioning,1.0,1,1,Open Parking Lot,1,1,0,25000,847.457627118644
+Guzeloba Mh.,105.0,90.0,2+1,Between 11-15,1,2.0,None,2.0,1,0,None,0,0,0,17000,576.271186440678
+Elmali Mh.,50.0,40.0,1+1,Between 26-30,3,4.0,Air conditioning,1.0,1,1,None,1,0,70,12500,423.728813559322
+Guzeloba Mh.,160.0,145.0,3+1,Between 11-15,8,10.0,Combi Boiler (Natural Gas),2.0,1,1,Open Parking Lot,1,1,0,47000,1593.2203389830509
+Guzeloba Mh.,60.0,50.0,1+1,Between 11-15,Garden Floor,2.0,Air conditioning,1.0,1,0,None,1,0,150,20000,474.5762711864407
+Varlik Mh.,110.0,105.0,3+1,3,3,6.0,Combi Boiler (Natural Gas),1.0,1,1,Open Parking Lot,1,1,0,0,847.457627118644
+Caglayan Mh.,200.0,160.0,4+1,Between 16-20,6,6.0,Air conditioning,2.0,1,1,Open Parking Lot,1,1,0,0,1016.9491525423729
+Guzeloba Mh.,55.0,45.0,1+1,2,1,2.0,Air conditioning,1.0,1,0,None,0,0,0,0,474.5762711864407
+Guzeloba Mh.,55.0,50.0,1+1,Between 5-10,High Entry,2.0,Air conditioning,1.0,1,0,Open Parking Lot,1,0,0,18500,610.1694915254237
+Dutlubahce Mh.,85.0,80.0,2+1,Between 5-10,High Entry,4.0,Air conditioning,1.0,1,1,Open Parking Lot,0,0,0,13500,457.6271186440678
+Bahcelievler Mh.,250.0,200.0,3+1,Between 16-20,7,8.0,Air conditioning,2.0,1,1,Open Parking Lot,0,0,0,0,1694.915254237288
+Guzeloba Mh.,55.0,45.0,1+1,0,6,8.0,Air conditioning,1.0,0,1,Parking Garage,1,0,0,32500,1050.8474576271187
+Sedir Mah.,140.0,130.0,3+1,Between 21-25,4,5.0,Air conditioning,1.0,1,1,Open Parking Lot,0,0,100,16000,542.3728813559322
+Triangle Mh.,100.0,85.0,2+1,Between 16-20,2,5.0,Air conditioning,1.0,1,0,None,0,0,0,13000,440.6779661016949
+Fener Mah.,90.0,85.0,2+1,Between 11-15,1,2.0,Combi Boiler (Natural Gas),1.0,1,0,None,1,0,0,50000,881.3559322033898
+Caglayan Mh.,120.0,110.0,2+1,Between 11-15,3,7.0,Combi Boiler (Natural Gas),1.0,1,1,Open Parking Lot,1,1,0,0,949.1525423728814
+Fener Mah.,90.0,80.0,2+1,Between 16-20,Garden Floor,3.0,Air conditioning,1.0,1,0,None,1,0,0,0,745.7627118644068
+Kizilsaray Mh.,100.0,90.0,2+1,Between 21-25,High Entry,3.0,Air conditioning,1.0,1,1,None,0,0,0,15000,457.6271186440678
+Sirinyalı Mh.,250.0,240.0,4+1,Between 21-25,1,4.0,Air conditioning,2.0,1,0,None,0,0,0,0,1186.4406779661017
+Kizilarik Mh.,100.0,95.0,2+1,Between 5-10,2,5.0,Air conditioning,1.0,1,1,Open Parking Lot,0,0,0,13000,440.6779661016949
+Fener Mah.,95.0,85.0,2+1,4,3,3.0,Air conditioning,1.0,1,0,Open Parking Lot,1,0,500,35000,1186.4406779661017
+Guzeloba Mh.,55.0,45.0,1+1,Between 11-15,1,3.0,Air conditioning,1.0,1,0,Open Parking Lot,1,1,250,13500,508.47457627118644
+Mehmetcik Mh.,130.0,125.0,3+1,Between 11-15,Ground floor,4.0,Air conditioning,1.0,1,1,Open Parking Lot,0,0,0,15750,533.8983050847457
+Sirinyalı Mh.,180.0,165.0,3+1,Between 16-20,3,4.0,None,1.0,1,1,Open Parking Lot,0,0,300,0,847.457627118644
+Guzeloba Mh.,95.0,85.0,2+1,Between 5-10,8,8.0,Air conditioning,1.0,1,1,Open Parking Lot,1,1,0,0,915.2542372881356
+Meltem Mah.,160.0,150.0,3+1,Between 26-30,4,8.0,Combi Boiler (Natural Gas),1.0,1,1,Open Parking Lot,1,0,800,50000,1694.915254237288
+Hospitable Mah.,70.0,60.0,1+1,Between 5-10,High Entry,4.0,Air conditioning,1.0,1,0,Open Parking Lot,0,0,0,0,406.77966101694915
+Guzeloba Mh.,120.0,95.0,2+1,2,Garden Floor,2.0,Air conditioning,1.0,1,1,Open Parking Lot,0,0,1500,30000,1084.7457627118645
+Hashemiscan Mh.,60.0,55.0,1+1,Between 26-30,Basement Floor,4.0,Air conditioning,1.0,0,0,Open Parking Lot,0,0,0,12500,423.728813559322
+Guzeloba Mh.,120.0,110.0,2+1,Between 5-10,2,2.0,Air conditioning,2.0,1,0,None,1,0,200,25000,847.457627118644
+Guzeloba Mh.,70.0,65.0,1+1,Between 11-15,Garden Floor,3.0,Air conditioning,1.0,1,0,Open Parking Lot,1,1,0,15500,508.47457627118644
+Sirinyalı Mh.,175.0,165.0,3+1,Between 21-25,3,4.0,Combi Boiler (Natural Gas),1.0,1,1,Open Parking Lot,0,0,250,21000,711.8644067796611
+Barracks Mh.,135.0,125.0,2+1,Between 21-25,1,4.0,Air conditioning,1.0,1,0,Open Parking Lot,0,0,0,24000,406.77966101694915
+Guzeloba Mh.,200.0,190.0,4+2,Between 16-20,2,2.0,Air conditioning,2.0,1,0,Open Parking Lot,0,1,350,22000,745.7627118644068
+Mehmetcik Mh.,85.0,80.0,2+1,Between 5-10,3,5.0,Central (Share Meter),2.0,1,1,Open & Closed Parking Lot,0,1,2000,0,677.9661016949152
+Muratpasa Mh.,75.0,65.0,1+1,Between 11-15,3,5.0,Air conditioning,1.0,0,1,Open Parking Lot,0,0,0,12500,423.728813559322
+Fener Mah.,280.0,250.0,4+1,Between 21-25,6,10.0,Air conditioning,3.0,1,1,Open & Closed Parking Lot,0,0,3500,65000,2203.3898305084745
+Guzelbag Mh.,85.0,80.0,2+1,Between 16-20,2,2.0,Air conditioning,1.0,1,0,None,0,0,0,15000,508.47457627118644
+Gebizli Mah.,70.0,60.0,1+1,0,4,5.0,Air conditioning,1.0,1,1,Parking Garage,1,1,350,17000,576.271186440678
+Yesilbahce Mh.,170.0,160.0,3+1,Between 21-25,3,4.0,None,1.0,1,0,Open Parking Lot,0,0,250,25000,898.3050847457627
+Kizilarik Mh.,140.0,120.0,3+1,4,2,5.0,Air conditioning,1.0,1,1,Open & Closed Parking Lot,1,0,200,50000,677.9661016949152
+Yesilbahce Mh.,160.0,150.0,3+1,Between 21-25,5,7.0,None,1.0,1,1,Open Parking Lot,0,1,250,20000,677.9661016949152
+Guzeloba Mh.,95.0,75.0,2+1,Between 11-15,Garden Floor,3.0,Air conditioning,1.0,1,0,None,0,0,250,36000,610.1694915254237
+Varlik Mh.,110.0,100.0,2.5+1,Between 21-25,6,7.0,Air conditioning,1.0,1,1,Open Parking Lot,0,0,100,19000,610.1694915254237
+Youth Mh.,155.0,145.0,3+1,Between 21-25,3,4.0,Air conditioning,1.0,1,0,Open Parking Lot,1,1,0,0,1016.9491525423729
+Guzeloba Mh.,65.0,55.0,1+1,2,1,2.0,Combi Boiler (Natural Gas),1.0,1,0,Open Parking Lot,1,0,700,20000,677.9661016949152
+Security Mh.,60.0,50.0,1+1,0,Basement Floor,5.0,Air conditioning,1.0,0,1,Open Parking Lot,1,0,0,0,457.6271186440678
+Yuksekalan Mh.,165.0,150.0,3+1,31 and over,6,7.0,Air conditioning,1.0,1,1,None,0,0,0,16000,542.3728813559322
+Guzeloba Mh.,65.0,60.0,1+1,Between 5-10,2,8.0,Air conditioning,1.0,0,1,Open Parking Lot,1,1,1000,15000,508.47457627118644
+Sirinyalı Mh.,160.0,150.0,2+1,Between 11-15,High Entry,1.0,Air conditioning,2.0,1,1,Open Parking Lot,1,0,200,0,1016.9491525423729
+Caglayan Mh.,70.0,56.0,1+1,4,High Entry,4.0,Combi Boiler (Natural Gas),1.0,1,1,Parking Garage,1,0,400,0,745.7627118644068
+Republic Mah.,155.0,140.0,3+1,Between 21-25,4,5.0,Air conditioning,1.0,1,0,Open Parking Lot,0,0,100,12000,406.77966101694915
+Zerdalilik Mah.,160.0,150.0,3+1,Between 21-25,2,4.0,None,1.0,1,0,None,0,0,0,16000,542.3728813559322
+Triangle Mh.,95.0,90.0,2+1,Between 5-10,4,8.0,None,1.0,1,1,None,0,0,0,18000,610.1694915254237
+Fener Mah.,85.0,75.0,2+1,Between 5-10,1,2.0,Air conditioning,1.0,1,0,Open Parking Lot,1,0,100,30000,881.3559322033898
+Guzeloba Mh.,65.0,60.0,1+1,3,6,8.0,Air conditioning,1.0,0,1,Open Parking Lot,0,0,700,0,372.8813559322034
+Kiziltoprak Mh.,115.0,110.0,2+1,Between 5-10,High Entry,3.0,Air conditioning,1.0,1,1,Open Parking Lot,1,0,150,12000,406.77966101694915
+Yesilbahce Mh.,180.0,165.0,3+1,Between 16-20,6,10.0,Combi Boiler (Natural Gas),1.0,1,1,Open Parking Lot,1,1,0,115000,1966.1016949152543
+Guzeloba Mh.,60.0,55.0,1+1,Between 11-15,Garden Floor,3.0,Air conditioning,1.0,1,0,None,1,0,100,30000,576.271186440678
+Fener Mah.,80.0,75.0,2+1,Between 5-10,High Entry,2.0,Air conditioning,1.0,1,0,None,1,0,100,15000,593.2203389830509
+Sirinyalı Mh.,235.0,200.0,4+1,Between 16-20,4,4.0,Combi Boiler (Natural Gas),2.0,1,1,Open Parking Lot,0,0,300,100000,1694.915254237288
+Guzeloluk Mh.,120.0,110.0,3+1,Between 21-25,1,3.0,None,1.0,1,0,Open Parking Lot,0,1,300,16250,516.9491525423729
+Guzeloba Mh.,85.0,70.0,2+1,4,1,1.0,Air conditioning,1.0,1,0,Open Parking Lot,1,1,1750,30000,1016.9491525423729
+Youth Mh.,110.0,100.0,2+1,Between 26-30,1,7.0,Air conditioning,1.0,1,0,None,1,0,0,0,915.2542372881356
+Sea District.,50.0,40.0,1+1,1,Ground floor,5.0,Air conditioning,1.0,0,1,Open Parking Lot,1,0,0,20000,508.47457627118644
+Etiler Mah.,140.0,130.0,3+1,Between 11-15,Garden Floor,4.0,Air conditioning,1.0,1,0,Open Parking Lot,0,0,0,0,440.6779661016949
+Guzeloba Mh.,50.0,45.0,1+1,4,Ground floor,3.0,None,1.0,1,1,Open Parking Lot,0,1,750,0,610.1694915254237
+Guzeloba Mh.,70.0,65.0,1+1,Between 16-20,Ground floor,3.0,Air conditioning,1.0,1,0,Open Parking Lot,1,1,10000,13000,508.47457627118644
+Yuksekalan Mh.,160.0,150.0,3+1,Between 16-20,2,2.0,Air conditioning,1.0,1,0,None,1,0,0,25000,644.0677966101695
+Guzeloba Mh.,70.0,60.0,1+1,Between 5-10,Garden Floor,2.0,Air conditioning,1.0,1,0,Open Parking Lot,1,1,0,19500,661.0169491525423
+Varlik Mh.,135.0,120.0,3+1,Between 26-30,1,7.0,Air conditioning,1.0,1,1,Open Parking Lot,0,0,200,21000,711.8644067796611
+Caybasi Mh.,75.0,70.0,2+1,2,2,3.0,None,1.0,1,1,Open Parking Lot,0,0,250,17000,576.271186440678
+Guzeloba Mh.,70.0,60.0,1+1,Between 5-10,Garden Floor,2.0,Air conditioning,1.0,1,1,Open Parking Lot,1,1,750,18000,610.1694915254237
+Guzeloba Mh.,65.0,60.0,1+1,3,1,3.0,Air conditioning,1.0,0,0,None,1,0,0,0,772.8813559322034
+Yesilbahce Mh.,140.0,135.0,3+1,Between 16-20,3,12.0,Air conditioning,2.0,1,1,Open Parking Lot,1,1,850,0,1084.7457627118645
+Varlik Mh.,120.0,110.0,2+1,Between 26-30,5,5.0,Air conditioning,1.0,1,0,Open Parking Lot,0,0,0,0,474.5762711864407
+Guzeloba Mh.,110.0,100.0,2+1,31 and over,1,3.0,Air conditioning,1.0,1,0,None,1,1,0,25000,847.457627118644
+Security Mh.,145.0,135.0,3+1,Between 16-20,1,7.0,Air conditioning,1.0,1,1,Open Parking Lot,0,0,350,17000,576.271186440678
+Guzeloba Mh.,60.0,40.0,1+1,4,2,3.0,Air conditioning,1.0,1,1,Open Parking Lot,1,0,400,40000,677.9661016949152
+Barracks Mh.,130.0,120.0,2+1,Between 16-20,3,4.0,Fireplace,1.0,1,0,None,1,0,30,12000,508.47457627118644
+Meydankavagi Mh.,140.0,130.0,3+1,Between 16-20,Garden Floor,10.0,Air conditioning,1.0,1,1,Open Parking Lot,0,1,2000,20000,711.8644067796611
+Guzeloba Mh.,65.0,60.0,2+1,Between 11-15,Ground floor,5.0,Air conditioning,1.0,1,1,Open Parking Lot,1,0,150,34000,576.271186440678
+Hashemiscan Mh.,135.0,125.0,3+1,Between 26-30,3,4.0,None,1.0,1,0,None,0,0,100,12500,423.728813559322
+Meydankavagi Mh.,150.0,140.0,3+1,Between 11-15,2,4.0,None,1.0,1,1,Open Parking Lot,0,1,250,0,745.7627118644068
+Caglayan Mh.,160.0,140.0,3+1,Between 11-15,4,10.0,Combi Boiler (Natural Gas),1.0,1,1,Open Parking Lot,1,1,400,60000,1016.9491525423729
+Guzelbag Mh.,90.0,75.0,2+1,Between 11-15,1,2.0,Combi Boiler (Natural Gas),1.0,1,0,None,0,0,200,20000,677.9661016949152
+Sirinyalı Mh.,168.0,160.0,3+1,Between 21-25,2,4.0,Combi Boiler (Natural Gas),1.0,1,0,Open Parking Lot,0,0,50,25000,847.457627118644
+Sirinyalı Mh.,110.0,100.0,2+1,Between 16-20,2,4.0,None,1.0,1,1,Open Parking Lot,0,0,0,0,677.9661016949152
+Bayindir Mh.,70.0,60.0,1+1,Between 5-10,1,5.0,Air conditioning,1.0,1,1,Open Parking Lot,1,0,0,0,491.52542372881356
+Guzeloba Mh.,170.0,155.0,3+1,Between 16-20,5,6.0,Air conditioning,1.0,1,1,Open Parking Lot,1,0,800,30000,966.1016949152543
+Yesilbahce Mh.,150.0,140.0,3+1,Between 16-20,3,11.0,Air conditioning,2.0,1,1,Open Parking Lot,1,0,0,25000,1016.9491525423729
+Altindag Mh.,130.0,110.0,2+1,Between 21-25,1,8.0,Air conditioning,1.0,1,1,Open Parking Lot,0,0,200,18000,576.271186440678
+Hashemiscan Mh.,60.0,55.0,1+1,Between 26-30,Basement Floor,4.0,Air conditioning,1.0,0,0,Open Parking Lot,0,0,0,12500,406.77966101694915
+Meydankavagi Mh.,150.0,140.0,3+1,Between 16-20,1,8.0,Air conditioning,1.0,1,1,Open Parking Lot,0,0,0,16500,559.3220338983051
+Fener Mah.,165.0,155.0,3+1,Between 16-20,7,8.0,Air conditioning,1.0,1,1,Open Parking Lot,1,1,300,25000,847.457627118644
+Kizilarik Mh.,107.0,90.0,2+1,Between 5-10,2,4.0,Air conditioning,1.0,1,1,Open Parking Lot,0,0,0,12000,406.77966101694915
+Yenigun Mh.,100.0,85.0,2+1,Between 11-15,4,4.0,Combi Boiler (Natural Gas),1.0,1,0,Open Parking Lot,1,0,0,0,610.1694915254237
+Fener Mah.,100.0,96.0,2+1,Between 11-15,1,3.0,Air conditioning,1.0,1,0,None,1,0,0,0,881.3559322033898
+Fener Mah.,80.0,60.0,2+1,Between 5-10,Garden Floor,2.0,Combi Boiler (Natural Gas),1.0,1,0,None,0,1,0,50000,762.7118644067797
+Kizilsaray Mh.,60.0,50.0,1+1,Between 16-20,1,3.0,Air conditioning,1.0,1,0,None,1,0,100,18000,610.1694915254237
+Meltem Mah.,140.0,130.0,3+1,Between 21-25,11,13.0,Air conditioning,2.0,1,1,None,0,1,400,26000,881.3559322033898
+Soguksu Mh.,125.0,110.0,3+1,Between 21-25,5,5.0,Air conditioning,1.0,1,0,Open Parking Lot,0,0,0,15000,508.47457627118644
+Caglayan Mh.,150.0,135.0,3+1,Between 16-20,9,10.0,Air conditioning,1.0,1,1,Open Parking Lot,1,1,320,20000,1016.9491525423729
+Caglayan Mh.,55.0,50.0,1+1,Between 11-15,Garden Floor,4.0,Air conditioning,1.0,1,1,Open Parking Lot,0,1,1000,16000,542.3728813559322
+Soguksu Mh.,300.0,270.0,5+1,Between 11-15,13,13.0,Combi Boiler (Natural Gas),2.0,1,1,Open Parking Lot,1,1,400,0,1322.0338983050847
+Guzeloba Mh.,160.0,155.0,3+1,Between 5-10,4,8.0,Air conditioning,1.0,1,1,Open Parking Lot,0,1,1000,20000,677.9661016949152
+Yesilbahce Mh.,145.0,135.0,3+1,Between 11-15,5,8.0,Combi Boiler (Natural Gas),1.0,1,1,Open Parking Lot,1,1,1550,70000,1186.4406779661017
+Guzeloba Mh.,120.0,110.0,2+1,Between 5-10,1,2.0,Air conditioning,2.0,0,1,Parking Garage,1,1,1800,80000,1525.4237288135594
+Guzeloba Mh.,95.0,85.0,2+1,4,3,6.0,Air conditioning,2.0,1,1,Parking Garage,1,1,1300,38000,1254.2372881355932
+Guzeloba Mh.,60.0,50.0,1+1,Between 5-10,High Entry,2.0,Air conditioning,1.0,1,0,Open Parking Lot,0,0,200,15000,440.6779661016949
+Kizilarik Mh.,135.0,120.0,3+1,4,1,5.0,Air conditioning,1.0,0,1,None,0,0,0,15000,508.47457627118644
+Guzeloba Mh.,85.0,70.0,2+1,Between 16-20,Ground floor,1.0,Air conditioning,1.0,0,1,Open Parking Lot,1,1,1000,34000,1016.9491525423729
+Triangle Mh.,110.0,100.0,2+1,3,4,7.0,None,1.0,1,1,Open & Closed Parking Lot,0,0,0,0,576.271186440678
+Fener Mah.,90.0,75.0,2+1,Between 21-25,Garden Floor,15.0,Floor Heating,1.0,1,1,Parking Garage,1,1,1250,25000,847.457627118644
+Dutlubahce Mh.,100.0,90.0,2+1,Between 5-10,High Entry,4.0,Air conditioning,1.0,1,1,Open Parking Lot,1,1,400,15000,508.47457627118644
+Yuksekalan Mh.,75.0,65.0,2+1,1,Ground floor,3.0,Combi Boiler (Natural Gas),1.0,0,0,Parking Garage,1,0,250,0,644.0677966101695
+Caglayan Mh.,320.0,290.0,4+2,Between 16-20,6,6.0,Air conditioning,3.0,1,1,Open Parking Lot,0,1,0,30000,915.2542372881356
+Republic Mah.,95.0,90.0,2+1,Between 16-20,High Entry,4.0,Air conditioning,1.0,1,0,Open Parking Lot,0,0,100,22000,372.8813559322034
+Meltem Mah.,125.0,120.0,3+1,Between 16-20,1,6.0,Combi Boiler (Natural Gas),2.0,1,1,Open Parking Lot,1,1,0,27000,1084.7457627118645
+Guzeloba Mh.,150.0,130.0,3+1,Between 11-15,3,7.0,Combi Boiler (Natural Gas),2.0,1,1,Open Parking Lot,0,0,600,25000,847.457627118644
+Caglayan Mh.,230.0,200.0,6+1,Between 16-20,Garden Floor,5.0,Air conditioning,3.0,1,1,Open & Closed Parking Lot,1,0,150,45000,762.7118644067797
+Sinan Mah.,55.0,45.0,1+1,0,4,5.0,Combi Boiler (Natural Gas),1.0,1,1,Open Parking Lot,0,0,0,16500,559.3220338983051
+Yesilbahce Mh.,160.0,140.0,3+1,Between 16-20,1,4.0,Combi Boiler (Natural Gas),1.0,1,0,Open Parking Lot,1,0,100,40000,966.1016949152543
+Guzeloba Mh.,150.0,125.0,3+1,Between 16-20,12,12.0,Air conditioning,1.0,1,1,Open & Closed Parking Lot,1,0,500,60000,677.9661016949152
+Sirinyalı Mh.,170.0,160.0,3+1,Between 21-25,3,4.0,Air conditioning,1.0,1,0,Open Parking Lot,0,0,200,25000,847.457627118644
+Guzeloba Mh.,55.0,50.0,1+1,Between 5-10,Garden Floor,3.0,Combi Boiler (Natural Gas),1.0,1,1,Parking Garage,1,0,0,18000,677.9661016949152
+Gebizli Mah.,149.0,130.0,3+1,4,4,6.0,Air conditioning,2.0,1,1,Parking Garage,0,1,2600,0,677.9661016949152
+Republic Mah.,125.0,115.0,3+1,Between 21-25,4,4.0,Air conditioning,1.0,1,0,Open Parking Lot,0,0,50,5000,491.52542372881356
+Fener Mah.,270.0,240.0,6+1,Between 21-25,11,11.0,Air conditioning,2.0,1,1,Open Parking Lot,0,0,500,34000,1220.3389830508474
+Demircikara Mah.,170.0,155.0,3+1,Between 16-20,6,9.0,Combi Boiler (Natural Gas),2.0,1,1,Open Parking Lot,0,0,350,28000,949.1525423728814
+Kiziltoprak Mh.,90.0,85.0,2+1,Between 5-10,1,4.0,None,1.0,1,1,Open Parking Lot,0,0,350,17250,576.271186440678
+Triangle Mh.,95.0,90.0,2+1,Between 26-30,6,6.0,Air conditioning,1.0,1,1,None,0,0,0,15000,508.47457627118644
+Doguyaka Mh.,140.0,130.0,3+1,Between 5-10,1,4.0,Combi Boiler (Natural Gas),2.0,1,1,Parking Garage,0,0,300,21000,711.8644067796611
+Meydankavagi Mh.,220.0,200.0,3+1,Between 5-10,2,3.0,Combi Boiler (Natural Gas),2.0,1,1,Parking Garage,0,1,1500,40000,1355.9322033898304
+Youth Mh.,95.0,90.0,1+1,Between 26-30,1,3.0,Air conditioning,1.0,1,0,None,1,0,0,0,847.457627118644
+Kizilarik Mh.,145.0,140.0,3+1,Between 11-15,3,7.0,None,1.0,1,1,Open Parking Lot,0,1,450,17500,593.2203389830509
+Guzeloba Mh.,105.0,100.0,2+1,Between 21-25,4,13.0,Combi Boiler (Natural Gas),1.0,1,0,None,0,1,0,0,813.5593220338983
+Gebizli Mah.,75.0,70.0,2+1,Between 5-10,High Entry,4.0,Air conditioning,1.0,1,1,Parking Garage,0,1,0,30000,406.77966101694915
+Bayindir Mh.,140.0,130.0,3+1,Between 16-20,6,7.0,Combi Boiler (Natural Gas),1.0,1,1,Open Parking Lot,1,0,200,25000,847.457627118644
+Yuksekalan Mh.,140.0,135.0,3+1,Between 26-30,2,6.0,Air conditioning,1.0,1,1,Open Parking Lot,1,0,0,22000,745.7627118644068
+Bayindir Mh.,130.0,125.0,3+1,Between 16-20,2,4.0,Combi Boiler (Natural Gas),1.0,1,1,Open Parking Lot,0,0,250,25000,847.457627118644
+Etiler Mah.,90.0,85.0,2+1,Between 5-10,Ground floor,4.0,Air conditioning,1.0,0,0,Open Parking Lot,1,0,0,0,432.20338983050846
+Soguksu Mh.,145.0,140.0,3+1,Between 16-20,1,5.0,Air conditioning,1.0,1,0,Open Parking Lot,0,0,0,0,677.9661016949152
+Sedir Mah.,95.0,90.0,2+1,Between 16-20,3,4.0,Air conditioning,1.0,1,0,Open Parking Lot,0,0,0,13000,440.6779661016949
+Meydankavagi Mh.,150.0,135.0,3+1,Between 11-15,3,8.0,Combi Boiler (Natural Gas),2.0,1,1,Open Parking Lot,0,1,1000,27000,915.2542372881356
+Guzeloba Mh.,115.0,100.0,2+1,Between 11-15,8,8.0,Air conditioning,1.0,1,1,Open Parking Lot,1,1,250,30000,915.2542372881356
+Kiziltoprak Mh.,90.0,75.0,1+1,0,High Entry,6.0,Air conditioning,1.0,1,1,Parking Garage,1,0,1500,60000,1016.9491525423729
+Tahilpazari Mh.,80.0,70.0,2+1,Between 26-30,3,4.0,None,1.0,1,0,Open Parking Lot,1,0,0,20000,677.9661016949152
+Fener Mah.,60.0,55.0,1+1,Between 11-15,Garden Floor,3.0,Air conditioning,1.0,1,0,None,0,0,0,13000,440.6779661016949
+Doguyaka Mh.,100.0,90.0,2+1,4,3,4.0,Air conditioning,2.0,1,1,Open Parking Lot,0,0,800,23000,779.6610169491526
+Guzelbag Mh.,110.0,90.0,2+1,Between 5-10,Ground floor,3.0,Air conditioning,1.0,1,0,Open Parking Lot,1,0,75,0,677.9661016949152
+Guzeloba Mh.,55.0,50.0,1+1,1,Ground floor,2.0,Air conditioning,1.0,1,0,Open Parking Lot,1,1,0,0,593.2203389830509
+Guzeloba Mh.,65.0,60.0,1+1,Between 5-10,2,2.0,Air conditioning,1.0,1,1,Open Parking Lot,1,1,250,18000,610.1694915254237
+Bayindir Mh.,90.0,80.0,1+1,Between 16-20,7,7.0,Air conditioning,1.0,1,1,Open Parking Lot,0,0,0,0,508.47457627118644
+Guzeloba Mh.,60.0,50.0,1+1,Between 26-30,Garden Floor,1.0,Air conditioning,1.0,1,0,Open & Closed Parking Lot,0,1,3990,20000,644.0677966101695
+Yenigun Mh.,110.0,100.0,2+1,Between 16-20,1,4.0,Air conditioning,1.0,1,0,None,0,0,0,24000,423.728813559322
+Hospitable Mah.,60.0,50.0,Studio (1+0),Between 11-15,Ground floor,5.0,Air conditioning,1.0,0,1,Open Parking Lot,1,0,0,0,372.8813559322034
+Kizilarik Mh.,90.0,75.0,2+1,4,High Entry,4.0,Combi Boiler (Natural Gas),1.0,1,1,Open Parking Lot,0,1,300,12000,406.6101694915254
+Youth Mh.,220.0,190.0,3+1,Between 21-25,2,13.0,Combi Boiler (Natural Gas),3.0,1,1,Open & Closed Parking Lot,1,1,1600,120000,2033.8983050847457
+Hashemiscan Mh.,100.0,90.0,3+1,31 and over,4,6.0,Air conditioning,1.0,1,1,None,1,0,150,40000,847.457627118644
+Triangle Mh.,45.0,35.0,1+1,0,Ground floor,6.0,Combi Boiler (Natural Gas),1.0,0,1,Parking Garage,0,0,0,15000,508.47457627118644
+Guzeloluk Mh.,200.0,185.0,4+1,Between 5-10,1,7.0,Combi Boiler (Natural Gas),2.0,1,1,Parking Garage,0,1,0,0,1864.406779661017
+Yuksekalan Mh.,80.0,65.0,2+1,Between 16-20,2,2.0,Air conditioning,1.0,1,0,Open Parking Lot,1,0,100,16000,508.47457627118644
+Sea District.,90.0,85.0,2+1,Between 26-30,Ground floor,4.0,Air conditioning,1.0,1,0,None,1,0,70,18000,610.1694915254237
+Youth Mh.,150.0,140.0,3+1,31 and over,2,6.0,Air conditioning,1.0,1,1,Open Parking Lot,0,0,450,20000,677.9661016949152
+Youth Mh.,170.0,150.0,3+1,Between 21-25,1,6.0,Air conditioning,1.0,1,1,None,0,1,0,40000,1355.9322033898304
+Sea District.,170.0,160.0,3+1,0,3,5.0,Combi Boiler (Natural Gas),2.0,1,1,Parking Garage,0,1,1200,35000,1186.4406779661017
+Guzeloba Mh.,165.0,150.0,3+1,Between 21-25,5,10.0,Air conditioning,1.0,1,1,Open Parking Lot,0,1,650,30000,779.6610169491526
+Youth Mh.,110.0,100.0,2+1,31 and over,1,5.0,Air conditioning,1.0,1,1,Open Parking Lot,1,0,0,44000,745.7627118644068
+Kizilarik Mh.,100.0,90.0,2+1,4,4,7.0,Air conditioning,1.0,1,1,Parking Garage,0,0,0,0,525.4237288135594
+Dutlubahce Mh.,150.0,140.0,3+1,Between 16-20,2,4.0,Air conditioning,1.0,1,0,Open Parking Lot,0,0,100,16000,542.3728813559322
+Guzeloba Mh.,155.0,140.0,3+1,Between 21-25,4,11.0,Air conditioning,1.0,1,1,Open Parking Lot,0,0,250,0,1355.9322033898304
+Yesilbahce Mh.,180.0,170.0,4+1,Between 16-20,1,10.0,Combi Boiler (Natural Gas),2.0,1,1,Open Parking Lot,0,1,0,0,1016.9491525423729
+Guzeloba Mh.,55.0,45.0,1+1,2,High Entry,1.0,Air conditioning,1.0,1,0,Open Parking Lot,1,0,250,15000,508.47457627118644
+Hospitable Mah.,125.0,120.0,3+1,Between 16-20,5,10.0,Air conditioning,1.0,1,1,Open Parking Lot,0,1,50,17000,576.271186440678
+Caybasi Mh.,170.0,140.0,3+1,Between 21-25,6,7.0,Air conditioning,2.0,0,1,Open Parking Lot,1,0,200,24000,813.5593220338983
+Kizilarik Mh.,90.0,85.0,2+1,4,2,4.0,Air conditioning,2.0,1,1,Open Parking Lot,1,0,0,14000,474.54237288135596
+Guzeloba Mh.,165.0,145.0,3+1,Between 16-20,6,8.0,Air conditioning,2.0,1,1,Open Parking Lot,1,1,800,30000,1016.9491525423729
+Meydankavagi Mh.,130.0,120.0,3+1,Between 11-15,1,3.0,Combi Boiler (Natural Gas),1.0,1,0,Open Parking Lot,0,0,0,0,779.6610169491526
+Kizilarik Mh.,130.0,120.0,2+1,Between 11-15,3,4.0,Air conditioning,1.0,1,1,Open Parking Lot,0,0,0,0,406.77966101694915
+Yildiz Mh.,110.0,100.0,2+1,Between 21-25,1,6.0,Air conditioning,1.0,1,1,Open Parking Lot,0,0,200,18000,542.3728813559322
+Guzeloba Mh.,65.0,55.0,2+1,1,Garden Floor,3.0,Air conditioning,1.0,1,0,Open Parking Lot,1,1,0,0,1305.084745762712
+Guzeloba Mh.,110.0,90.0,2+1,2,1,2.0,Combi Boiler (Natural Gas),2.0,1,0,Open Parking Lot,1,0,0,45000,762.7118644067797
+Guzeloba Mh.,120.0,105.0,3+1,Between 11-15,2,2.0,Air conditioning,1.0,1,0,None,0,0,200,19000,644.0677966101695
+Dutlubahce Mh.,135.0,120.0,3+1,Between 11-15,1,3.0,Air conditioning,1.0,1,1,Open Parking Lot,0,0,0,0,610.1694915254237
+Guzeloba Mh.,100.0,85.0,2+1,Between 11-15,1,3.0,Combi Boiler (Natural Gas),1.0,1,0,Open Parking Lot,1,1,0,50000,915.2542372881356
+Meydankavagi Mh.,230.0,178.0,4+1,Between 5-10,2,5.0,Central (Share Meter),2.0,1,1,Open Parking Lot,1,1,3000,100000,1694.915254237288
+Triangle Mh.,125.0,115.0,2+1,Between 16-20,Ground floor,4.0,Air conditioning,2.0,1,0,None,0,0,100,11500,389.8305084745763
+Bayindir Mh.,135.0,120.0,3+1,Between 11-15,4,7.0,Air conditioning,2.0,1,1,Open Parking Lot,1,0,200,35000,1186.4406779661017
+Fener Mah.,155.0,145.0,3+1,Between 16-20,8,8.0,Central (Share Meter),1.0,1,1,Open Parking Lot,0,1,3500,55000,1864.406779661017
+Guzeloba Mh.,60.0,55.0,1+1,2,1,2.0,Air conditioning,1.0,1,0,Open Parking Lot,1,0,850,30000,576.271186440678
+Yesildere Mh.,120.0,110.0,2+1,1,3,4.0,Air conditioning,1.0,1,1,Open Parking Lot,1,0,100,19000,627.1186440677966
+Sirinyalı Mh.,165.0,150.0,3+1,Between 16-20,13,13.0,Combi Boiler (Natural Gas),2.0,1,1,Open Parking Lot,1,0,1000,0,1220.3389830508474
+Kizilarik Mh.,95.0,85.0,2+1,4,2,4.0,None,1.0,1,1,Open Parking Lot,0,0,0,12000,406.77966101694915
+Caglayan Mh.,160.0,150.0,3+1,Between 11-15,2,9.0,Air conditioning,2.0,1,1,Open Parking Lot,1,1,0,22000,745.7627118644068
+Guzeloba Mh.,130.0,125.0,3+1,4,3,5.0,Combi Boiler (Natural Gas),1.0,1,1,Open Parking Lot,0,0,0,25000,847.457627118644
+Elmali Mh.,88.0,85.0,2+1,Between 26-30,3,4.0,Air conditioning,1.0,1,1,None,0,0,100,21000,745.7627118644068
+Caglayan Mh.,100.0,95.0,2+1,Between 21-25,9,12.0,Air conditioning,1.0,1,1,Open Parking Lot,1,1,500,0,1016.9491525423729
+Barracks Mh.,50.0,45.0,1+1,3,1,4.0,Combi Boiler (Natural Gas),1.0,1,1,None,1,0,0,0,603.3898305084746
+Dutlubahce Mh.,80.0,70.0,2+1,Between 5-10,Ground floor,4.0,None,1.0,1,0,Open Parking Lot,0,0,0,0,406.77966101694915
+Altindag Mh.,190.0,180.0,3+1,Between 16-20,2,5.0,Air conditioning,1.0,1,1,None,1,0,0,0,677.9661016949152
+Ermenek Mah.,210.0,160.0,4+2,Between 16-20,2,2.0,Air conditioning,3.0,1,0,Open Parking Lot,0,0,0,45000,1525.4237288135594
+Youth Mh.,130.0,120.0,3+1,31 and over,2,5.0,Air conditioning,1.0,1,0,None,0,0,100,15000,508.47457627118644
+Sirinyalı Mh.,95.0,85.0,2+1,Between 16-20,9,12.0,Air conditioning,1.0,1,1,Open Parking Lot,1,1,400,25000,847.457627118644
+Ermenek Mah.,100.0,95.0,2+1,1,1,3.0,Air conditioning,2.0,1,0,None,1,0,0,0,847.457627118644
+Youth Mh.,350.0,280.0,4+2,Between 16-20,5,5.0,Combi Boiler (Natural Gas),3.0,1,1,Open Parking Lot,0,0,1100,70000,2372.8813559322034
+Meydankavagi Mh.,220.0,200.0,3+1,Between 5-10,1,3.0,Combi Boiler (Natural Gas),2.0,1,1,Parking Garage,0,1,1500,40000,1355.9322033898304
+Soguksu Mh.,110.0,100.0,2+1,Between 11-15,Ground floor,7.0,None,1.0,1,1,Open Parking Lot,0,0,100,16000,508.47457627118644
+Zerdalilik Mah.,145.0,135.0,3+1,Between 26-30,2,4.0,None,1.0,1,0,Open Parking Lot,0,0,100,20000,677.9661016949152
+Guzeloba Mh.,200.0,180.0,5+1,Between 5-10,2,3.0,Air conditioning,2.0,1,0,Open Parking Lot,0,0,0,0,847.457627118644
+Meydankavagi Mh.,155.0,150.0,3+1,Between 16-20,3,9.0,Air conditioning,1.0,1,1,Open Parking Lot,0,1,750,25000,847.457627118644
+Sinan Mah.,140.0,120.0,2+1,Between 21-25,2,4.0,None,1.0,1,0,Open Parking Lot,0,0,250,30000,508.47457627118644
+Yenigun Mh.,180.0,160.0,6+1,Between 16-20,4,4.0,Air conditioning,2.0,1,1,Open Parking Lot,1,0,150,75000,847.457627118644
+Muratpasa Mh.,120.0,115.0,3+1,Between 11-15,2,7.0,Combi Boiler (Natural Gas),1.0,1,1,Open Parking Lot,0,0,200,15000,508.47457627118644
+Barracks Mh.,75.0,70.0,1+1,Between 5-10,1,3.0,Air conditioning,1.0,0,0,None,1,0,200,5000,440.6779661016949
+Hospitable Mah.,165.0,155.0,3+1,Between 11-15,1,3.0,Air conditioning,1.0,1,1,Open Parking Lot,0,0,150,15750,533.8983050847457
+Bahcelievler Mh.,330.0,280.0,4+1,Between 11-15,7,7.0,Combi Boiler (Natural Gas),2.0,1,1,Open Parking Lot,0,0,500,0,2067.7966101694915
+Sedir Mah.,95.0,90.0,2+1,Between 11-15,4,4.0,Air conditioning,1.0,1,0,Open Parking Lot,0,0,0,18000,610.1694915254237
+Caglayan Mh.,110.0,100.0,2+1,Between 11-15,1,4.0,Air conditioning,1.0,1,1,Open Parking Lot,1,0,450,0,949.1525423728814
+Guzeloba Mh.,180.0,150.0,3+1,Between 5-10,Penthouse,2.0,Air conditioning,2.0,1,0,Open Parking Lot,0,0,0,0,1050.8474576271187
+Bahcelievler Mh.,135.0,125.0,2+1,Between 26-30,1,4.0,None,1.0,1,0,Open Parking Lot,0,0,0,19500,661.0169491525423
+Meydankavagi Mh.,196.0,174.0,3+1,Between 11-15,7,7.0,Air conditioning,2.0,1,1,Open Parking Lot,1,0,0,0,991.5254237288135
+Kizilarik Mh.,90.0,80.0,2+1,Between 5-10,1,4.0,Air conditioning,1.0,1,1,Open Parking Lot,0,0,0,18000,610.1694915254237
+Guzeloba Mh.,200.0,170.0,3+1,Between 26-30,2,2.0,Air conditioning,1.0,1,0,Open Parking Lot,0,1,1400,30000,1016.9491525423729
+Hospitable Mah.,120.0,110.0,2+1,Between 11-15,1,3.0,Air conditioning,1.0,1,0,Open Parking Lot,0,0,150,15000,508.47457627118644
+Caglayan Mh.,135.0,130.0,3+1,Between 11-15,2,4.0,Combi Boiler (Natural Gas),1.0,1,1,Open Parking Lot,0,0,200,25000,847.457627118644
+Gebizli Mah.,155.0,145.0,3+1,Between 5-10,4,4.0,Air conditioning,1.0,1,1,Open Parking Lot,0,0,200,40000,677.9661016949152
+Sirinyalı Mh.,120.0,110.0,2+1,Between 5-10,3,5.0,Combi Boiler (Natural Gas),2.0,1,1,Open Parking Lot,1,0,500,70000,1084.7457627118645
+Caglayan Mh.,150.0,135.0,2+1,Between 16-20,Garden Floor,9.0,Combi Boiler (Natural Gas),1.0,1,1,Open Parking Lot,1,1,1300,0,677.9661016949152
+Kiziltoprak Mh.,150.0,140.0,3+1,Between 5-10,2,4.0,Air conditioning,1.0,1,1,Open Parking Lot,0,0,0,19500,677.9661016949152
+Sedir Mah.,100.0,90.0,2+1,3,4,5.0,Air conditioning,1.0,1,1,Open Parking Lot,0,0,100,14000,474.5762711864407
+Varlik Mh.,107.0,102.0,3+1,3,3,6.0,Combi Boiler (Natural Gas),1.0,1,1,Open Parking Lot,1,0,200,0,847.457627118644
+Sirinyalı Mh.,180.0,170.0,3+1,Between 11-15,1,2.0,Combi Boiler (Natural Gas),1.0,1,0,None,0,0,200,0,1355.9322033898304
+Caybasi Mh.,85.0,80.0,2+1,Between 5-10,3,5.0,Air conditioning,1.0,0,1,Open Parking Lot,1,0,0,0,762.7118644067797
+Youth Mh.,120.0,110.0,3+1,31 and over,4,4.0,Air conditioning,1.0,1,0,Open & Closed Parking Lot,0,0,0,0,474.5762711864407
+Guzeloba Mh.,90.0,82.0,2+1,Between 5-10,1,2.0,Air conditioning,1.0,1,0,Open Parking Lot,1,0,0,0,881.3559322033898
+Meydankavagi Mh.,120.0,110.0,2+1,Between 16-20,1,4.0,Air conditioning,1.0,1,1,None,0,0,0,15000,542.3728813559322
+Yesilbahce Mh.,168.0,145.0,1+1,Between 16-20,6,6.0,Combi Boiler (Natural Gas),1.0,1,1,Open Parking Lot,0,1,350,17000,508.47457627118644
+Guzeloba Mh.,95.0,85.0,2+1,Between 11-15,2,7.0,Combi Boiler (Natural Gas),1.0,1,1,Open Parking Lot,1,0,800,0,1016.9491525423729
+Guzeloba Mh.,95.0,85.0,2+1,Between 5-10,1,2.0,None,2.0,1,0,None,0,0,1000,20000,677.9661016949152
+Bahcelievler Mh.,200.0,180.0,3+1,Between 16-20,5,7.0,Floor Heating,1.0,1,1,Open Parking Lot,1,0,600,40000,1220.3389830508474
+Caglayan Mh.,120.0,110.0,4+1,Between 5-10,High Entry,2.0,Air conditioning,1.0,1,0,Open Parking Lot,1,0,0,0,1186.4406779661017
+Soguksu Mh.,115.0,110.0,2+1,Between 21-25,4,4.0,Fancoil Unit,1.0,1,0,Open Parking Lot,0,0,0,14000,474.5762711864407
+Sirinyalı Mh.,230.0,210.0,5+1,Between 21-25,12,13.0,Air conditioning,2.0,1,1,Open Parking Lot,0,1,0,0,1016.9491525423729
+Guzeloba Mh.,100.0,90.0,2+1,Between 21-25,2,2.0,Air conditioning,1.0,1,0,Open Parking Lot,1,0,100,50000,847.457627118644
+Yenigun Mh.,135.0,110.0,3+1,Between 16-20,3,3.0,Air conditioning,1.0,1,0,Open Parking Lot,0,0,0,0,542.3728813559322
+Barracks Mh.,200.0,180.0,3+1,31 and over,2,2.0,Air conditioning,1.0,1,0,None,0,0,50,20000,745.7627118644068
+Guzeloba Mh.,170.0,150.0,3+1,Between 11-15,6,8.0,Air conditioning,1.0,1,1,Open & Closed Parking Lot,0,1,1000,32500,1016.9491525423729
+Yenigun Mh.,145.0,140.0,3+1,Between 11-15,2,4.0,Air conditioning,1.0,1,0,Open Parking Lot,0,0,0,15500,525.4237288135594
+Fener Mah.,160.0,145.0,3+1,Between 16-20,3,10.0,Air conditioning,1.0,1,1,Open Parking Lot,0,0,1000,50000,1016.9491525423729
+Kizilsaray Mh.,120.0,110.0,2+1,Between 21-25,4,6.0,Air conditioning,1.0,1,1,None,0,0,0,14000,474.5762711864407
+Bayindir Mh.,145.0,130.0,3+1,Between 21-25,3,4.0,None,1.0,1,0,Open Parking Lot,0,0,100,15000,508.47457627118644
+Altindag Mh.,120.0,100.0,2+1,Between 11-15,High Entry,4.0,None,1.0,1,1,Open Parking Lot,0,0,100,12000,406.77966101694915
+Sea District.,120.0,110.0,2+1,1,Ground floor,5.0,Air conditioning,1.0,1,1,Open Parking Lot,1,0,0,46000,779.6610169491526
+Triangle Mh.,90.0,85.0,2+1,Between 21-25,1,3.0,Air conditioning,1.0,1,0,None,1,0,50,15000,406.77966101694915
+Youth Mh.,140.0,120.0,3+1,31 and over,2,5.0,Stove,1.0,1,0,None,0,0,0,15000,542.3728813559322
+Guzeloba Mh.,50.0,45.0,1+1,1,1,3.0,Air conditioning,1.0,1,1,None,1,0,0,25000,847.457627118644
+Etiler Mah.,105.0,95.0,2+1,Between 16-20,3,3.0,None,1.0,1,0,Open Parking Lot,0,0,0,13000,440.6779661016949
+Bayindir Mh.,150.0,145.0,3+1,Between 16-20,6,7.0,Air conditioning,1.0,1,1,Open Parking Lot,1,0,250,25000,847.457627118644
+Meydankavagi Mh.,200.0,185.0,3+1,Between 11-15,6,9.0,Air conditioning,2.0,1,1,Open Parking Lot,0,0,0,0,898.3050847457627
+Kiziltoprak Mh.,95.0,80.0,2+1,Between 5-10,2,5.0,Air conditioning,1.0,1,1,Open Parking Lot,0,0,0,15000,508.47457627118644
+Caglayan Mh.,250.0,240.0,5+1,Between 11-15,4,4.0,Air conditioning,2.0,1,1,Open Parking Lot,0,0,0,0,779.6610169491526
+Fener Mah.,165.0,145.0,3+1,Between 16-20,2,11.0,Combi Boiler (Natural Gas),1.0,1,1,Open Parking Lot,1,1,0,0,1355.9322033898304
+Guzeloba Mh.,55.0,50.0,1+1,Between 5-10,Ground floor,4.0,Air conditioning,1.0,0,1,Parking Garage,1,0,1950,22500,762.7118644067797
+Kizilarik Mh.,85.0,75.0,2+1,Between 5-10,High Entry,4.0,Air conditioning,1.0,0,1,Parking Garage,0,1,200,12500,423.728813559322
+Fener Mah.,150.0,130.0,3+1,Between 5-10,Garden Floor,8.0,Underfloor Heating,2.0,1,1,Parking Garage,0,1,2500,0,1694.915254237288
+Sea District.,75.0,65.0,2+1,4,Ground floor,4.0,Combi Boiler (Natural Gas),1.0,1,1,Open Parking Lot,1,0,150,50000,847.457627118644
+Sirinyalı Mh.,120.0,100.0,3+1,Between 21-25,1,4.0,Air conditioning,1.0,1,1,Open Parking Lot,0,0,0,50000,881.3559322033898
+Bayindir Mh.,100.0,90.0,2+1,Between 26-30,4,5.0,Air conditioning,1.0,1,0,Open Parking Lot,1,0,50,18000,610.1694915254237
+Hospitable Mah.,90.0,85.0,2+1,Between 11-15,1,4.0,None,1.0,1,0,Open Parking Lot,0,0,100,11000,372.8813559322034
+Caglayan Mh.,120.0,110.0,2+1,Between 5-10,1,4.0,Air conditioning,1.0,1,1,Open Parking Lot,1,0,450,0,949.1525423728814
+Guzeloba Mh.,55.0,50.0,1+1,Between 5-10,Ground floor,2.0,Air conditioning,1.0,1,1,Open Parking Lot,0,0,1000,18000,610.1694915254237
+Kizilarik Mh.,140.0,120.0,3+1,Between 5-10,2,5.0,Combi Boiler (Natural Gas),1.0,1,1,Open Parking Lot,0,0,250,20000,677.9661016949152
+Fener Mah.,170.0,160.0,3+1,Between 21-25,2,9.0,Air conditioning,1.0,1,1,Open Parking Lot,0,1,2300,30000,949.1525423728814
+Barracks Mh.,80.0,70.0,2+1,Between 21-25,1,3.0,Air conditioning,1.0,1,0,Open Parking Lot,0,0,0,0,474.5762711864407
+Security Mh.,65.0,60.0,1+1,Between 5-10,1,6.0,Combi Boiler (Natural Gas),1.0,0,0,None,1,0,0,0,483.0508474576271
+Balbey Mah.,65.0,55.0,1+1,Between 21-25,3,4.0,Air conditioning,1.0,0,1,None,1,0,150,14500,491.52542372881356
+Sea District.,170.0,160.0,3+1,0,3,5.0,Combi Boiler (Natural Gas),2.0,1,1,Parking Garage,0,1,1200,35000,1186.4406779661017
+Security Mh.,110.0,100.0,2+1,Between 26-30,2,3.0,Air conditioning,1.0,1,0,Open Parking Lot,0,0,100,12500,423.728813559322
+Sirinyalı Mh.,165.0,160.0,3+1,Between 11-15,1,9.0,None,2.0,1,1,Open Parking Lot,0,1,2000,23000,779.6610169491526
+Sea District.,85.0,80.0,2+1,31 and over,2,6.0,Air conditioning,1.0,1,1,None,1,0,0,0,855.9322033898305
+Guzeloba Mh.,120.0,100.0,2+1,Between 11-15,5,7.0,Air conditioning,1.0,1,1,Open Parking Lot,0,1,0,15000,576.271186440678
+Ermenek Mah.,60.0,55.0,1+1,Between 11-15,Ground floor,4.0,Combi Boiler (Natural Gas),1.0,1,1,None,1,0,0,0,603.3898305084746
+Guzeloba Mh.,85.0,80.0,2+1,Between 5-10,1,2.0,Air conditioning,1.0,1,0,None,0,0,100,15000,508.47457627118644
+Guzeloba Mh.,85.0,75.0,2+1,2,Ground floor,2.0,Combi Boiler (Natural Gas),1.0,1,0,None,0,0,700,30000,762.7118644067797
+Muratpasa Mh.,135.0,115.0,3+1,Between 5-10,2,4.0,Air conditioning,2.0,1,1,Open Parking Lot,0,0,200,20000,677.9661016949152
+Demircikara Mah.,130.0,110.0,3+1,Between 21-25,1,4.0,Air conditioning,1.0,1,0,Open Parking Lot,0,0,100,17000,542.3728813559322
+Guzeloba Mh.,130.0,120.0,3+1,Between 11-15,3,5.0,Combi Boiler (Natural Gas),1.0,1,1,Open Parking Lot,0,0,600,25000,847.457627118644
+Security Mh.,125.0,110.0,2+1,Between 16-20,3,3.0,None,2.0,1,0,None,0,0,0,0,474.5762711864407
+Hashemiscan Mh.,105.0,100.0,2+1,Between 21-25,7,7.0,Air conditioning,1.0,1,1,Open Parking Lot,1,0,0,0,2889.830508474576
+Kiziltoprak Mh.,110.0,90.0,3+1,Between 5-10,Ground floor,4.0,Combi Boiler (Natural Gas),1.0,1,1,Open Parking Lot,1,0,0,23000,661.0169491525423
+Guzeloba Mh.,110.0,100.0,2+1,0,Garden Floor,2.0,Underfloor Heating,2.0,1,1,Parking Garage,1,1,0,100000,1864.406779661017
+Etiler Mah.,75.0,70.0,2+1,0,4,4.0,Air conditioning,1.0,1,1,Open Parking Lot,0,0,0,16000,542.3728813559322
+Bahcelievler Mh.,110.0,90.0,2+1,Between 5-10,High Entry,5.0,Air conditioning,2.0,1,1,Parking Garage,1,0,200,21000,711.8644067796611
+Guzeloba Mh.,145.0,130.0,3+1,Between 16-20,6,9.0,Air conditioning,1.0,1,1,Open Parking Lot,0,0,400,25000,847.457627118644
+Guzelbag Mh.,180.0,160.0,4+1,Between 11-15,Ground floor,1.0,Solar Energy,2.0,1,0,Open Parking Lot,0,0,0,0,440.6779661016949
+Gebizli Mah.,100.0,90.0,2+1,Between 11-15,5,5.0,Air conditioning,1.0,1,1,None,0,0,50,12000,406.77966101694915
+Guzeloba Mh.,50.0,45.0,1+1,2,1,4.0,Air conditioning,1.0,1,1,Parking Garage,0,1,300,22000,745.7627118644068
+Caglayan Mh.,200.0,180.0,3+1,Between 11-15,6,8.0,Combi Boiler (Natural Gas),2.0,1,1,Open Parking Lot,1,1,300,60000,1288.135593220339
+Bahcelievler Mh.,240.0,220.0,4+1,1,4,4.0,Air conditioning,3.0,1,1,Open Parking Lot,1,0,0,50000,1355.9322033898304
+Guzeloba Mh.,60.0,50.0,1+1,1,2,3.0,Air conditioning,1.0,0,0,None,1,0,0,17000,576.271186440678
+Fener Mah.,170.0,160.0,3+1,Between 16-20,9,10.0,Combi Boiler (Natural Gas),2.0,1,1,Open Parking Lot,0,0,850,75000,2542.3728813559323
+Bayindir Mh.,160.0,145.0,3+1,Between 16-20,5,6.0,Combi Boiler (Natural Gas),1.0,1,1,Open Parking Lot,1,0,0,0,847.457627118644
+Triangle Mh.,145.0,135.0,3+1,Between 21-25,2,4.0,Air conditioning,1.0,1,0,None,0,0,0,17000,542.3728813559322
+Guzeloba Mh.,55.0,48.0,1+1,4,1,2.0,Air conditioning,1.0,0,0,Open Parking Lot,1,0,0,500,508.47457627118644
+Guzeloba Mh.,145.0,130.0,3+1,Between 5-10,2,2.0,Air conditioning,1.0,1,1,None,0,0,450,21000,711.8644067796611
+Kizilarik Mh.,280.0,250.0,6+1,Between 5-10,4,4.0,Air conditioning,4.0,1,1,Open Parking Lot,0,0,0,30000,1016.9491525423729
+Sirinyalı Mh.,280.0,220.0,4+1,Between 16-20,10,10.0,Air conditioning,3.0,1,1,Open Parking Lot,1,0,0,0,1118.6440677966102
+Soguksu Mh.,65.0,50.0,1+1,Between 26-30,4,4.0,Air conditioning,1.0,1,0,Open Parking Lot,0,0,0,11000,372.8813559322034
+Fener Mah.,95.0,90.0,2+1,Between 5-10,6,10.0,Air conditioning,1.0,1,1,Open Parking Lot,1,0,500,25000,847.457627118644
+Tahilpazari Mh.,150.0,130.0,3+1,Between 26-30,4,4.0,Air conditioning,1.0,1,1,None,0,0,0,20000,677.9661016949152
+Guzeloba Mh.,120.0,100.0,2+1,Between 16-20,2,2.0,None,1.0,1,0,Open Parking Lot,0,0,0,17000,542.3728813559322
+Hospitable Mah.,110.0,100.0,2+1,Between 5-10,1,4.0,None,2.0,1,1,Open Parking Lot,1,0,0,0,610.1694915254237
+Guzeloba Mh.,55.0,50.0,1+1,1,Garden Floor,3.0,Air conditioning,1.0,1,1,Open Parking Lot,0,1,950,15000,508.47457627118644
+Caglayan Mh.,120.0,110.0,2+1,Between 5-10,4,7.0,Air conditioning,1.0,1,1,Open Parking Lot,1,1,1200,0,949.1525423728814
+Altindag Mh.,125.0,115.0,2+1,Between 21-25,3,4.0,Air conditioning,1.0,1,0,None,1,0,150,20000,584.7457627118644
+Soguksu Mh.,80.0,75.0,1+1,31 and over,Ground floor,4.0,Combi Boiler (Natural Gas),1.0,1,0,Open Parking Lot,1,0,100,15000,508.47457627118644
+Yenigol Mh.,100.0,90.0,2+0,Between 11-15,2,4.0,Air conditioning,1.0,1,0,None,1,0,50,500,423.728813559322
+Hospitable Mah.,100.0,90.0,2+1,Between 11-15,4,4.0,None,1.0,1,0,None,0,0,0,12000,406.77966101694915
+Dutlubahce Mh.,240.0,230.0,5+1,Between 5-10,3,3.0,Combi Boiler (Natural Gas),1.0,1,0,Open Parking Lot,1,0,50,18000,610.1694915254237
+Gebizli Mah.,135.0,120.0,3+1,Between 16-20,6,11.0,Air conditioning,1.0,1,1,Open Parking Lot,0,1,500,25000,508.47457627118644
+Guzeloba Mh.,115.0,110.0,3+1,Between 16-20,4,7.0,Air conditioning,2.0,1,1,Open Parking Lot,1,1,0,0,837.2881355932203
+Guzeloba Mh.,65.0,60.0,1+1,Between 5-10,2,2.0,Air conditioning,1.0,1,1,Open Parking Lot,1,1,250,18000,610.1694915254237
+Kizilarik Mh.,100.0,90.0,2+1,3,4,4.0,Air conditioning,1.0,1,1,Open Parking Lot,1,0,0,0,610.1694915254237
+Sirinyalı Mh.,180.0,160.0,3+1,Between 26-30,8,8.0,Combi Boiler (Natural Gas),2.0,1,1,Open Parking Lot,0,0,0,60000,1796.6101694915253
+Guzeloluk Mh.,145.0,130.0,3+1,Between 11-15,4,4.0,None,3.0,1,1,Open Parking Lot,0,0,750,25000,847.457627118644
+Yenigun Mh.,140.0,135.0,3+1,Between 11-15,3,5.0,Air conditioning,1.0,1,0,Open Parking Lot,0,1,0,0,508.47457627118644
+Sedir Mah.,125.0,120.0,3+1,Between 11-15,5,5.0,Air conditioning,2.0,1,1,Open Parking Lot,0,0,0,12000,406.77966101694915
+Bahcelievler Mh.,125.0,120.0,3+1,Between 26-30,2,5.0,Air conditioning,1.0,1,0,Open Parking Lot,1,0,0,0,735.5932203389831
+Guzeloba Mh.,45.0,40.0,1+1,1,1,1.0,Air conditioning,1.0,0,0,Open Parking Lot,1,0,200,30000,508.47457627118644
+Guzeloba Mh.,80.0,70.0,2+1,Between 11-15,Garden Floor,6.0,None,1.0,1,1,Open Parking Lot,0,1,900,22500,762.7118644067797
+Fener Mah.,80.0,70.0,2+1,Between 11-15,Ground floor,2.0,Air conditioning,1.0,1,1,None,1,0,0,42000,711.8644067796611
+Soguksu Mh.,130.0,120.0,3+1,Between 21-25,2,4.0,None,1.0,1,0,Open Parking Lot,0,0,100,13500,423.728813559322
+Kiziltoprak Mh.,85.0,80.0,2+1,Between 5-10,High Entry,4.0,Air conditioning,1.0,1,1,Open Parking Lot,1,0,0,15000,508.47457627118644
+Guzeloba Mh.,85.0,65.0,1+1,Between 11-15,Garden Floor,3.0,Combi Boiler (Natural Gas),1.0,1,0,Open Parking Lot,1,1,1000,20000,508.47457627118644
+Fener Mah.,110.0,105.0,2+1,Between 5-10,2,4.0,Combi Boiler (Natural Gas),1.0,1,1,Open Parking Lot,1,0,2500,35000,1118.6440677966102
+Kizilarik Mh.,80.0,75.0,2+1,Between 11-15,High Entry,1.0,Air conditioning,1.0,1,1,Open Parking Lot,0,0,50,25000,372.8813559322034
+Yuksekalan Mh.,165.0,140.0,3+1,Between 16-20,6,7.0,None,1.0,1,1,Open Parking Lot,0,0,0,16000,542.3728813559322
+Guzeloba Mh.,105.0,90.0,2+1,Between 21-25,Villa Type,2.0,Air conditioning,1.0,1,0,Open Parking Lot,1,1,0,0,610.1694915254237
+Guzeloba Mh.,140.0,125.0,3+1,Between 16-20,1,7.0,Air conditioning,1.0,1,1,Open Parking Lot,1,0,300,20000,847.457627118644
+Kiziltoprak Mh.,80.0,70.0,2+1,Between 16-20,2,4.0,Air conditioning,1.0,1,1,Open Parking Lot,0,0,0,0,508.47457627118644
+Hashemiscan Mh.,100.0,85.0,2+1,Between 21-25,1,4.0,Air conditioning,1.0,1,1,Open Parking Lot,1,0,50,19000,1084.7457627118645
+Sirinyalı Mh.,160.0,145.0,3+1,Between 26-30,2,2.0,Air conditioning,1.0,1,0,None,1,1,0,0,1016.9491525423729
+Caglayan Mh.,120.0,110.0,2+1,Between 5-10,9,10.0,Underfloor Heating,2.0,1,1,Open & Closed Parking Lot,0,1,3000,55000,1864.406779661017
+Youth Mh.,145.0,135.0,4+1,Between 26-30,2,5.0,Air conditioning,1.0,1,1,Open Parking Lot,0,0,0,25000,847.457627118644
+Sirinyalı Mh.,55.0,50.0,1+1,Between 16-20,2,2.0,Air conditioning,1.0,1,0,Open Parking Lot,1,0,0,10000,847.457627118644
+Guzeloba Mh.,210.0,200.0,4+1,Between 11-15,1,9.0,Combi Boiler (Natural Gas),2.0,1,1,Open Parking Lot,1,0,0,0,1288.135593220339
+Sirinyalı Mh.,160.0,155.0,2+1,Between 16-20,Garden Floor,12.0,Air conditioning,2.0,1,1,Open & Closed Parking Lot,0,1,2000,45000,1525.4237288135594
+Soguksu Mh.,150.0,130.0,3+1,Between 26-30,1,3.0,Air conditioning,1.0,1,0,None,0,0,100,15000,508.47457627118644
+Kizilarik Mh.,110.0,100.0,3+1,Between 11-15,5,7.0,Air conditioning,1.0,1,1,Open Parking Lot,0,1,0,60000,677.9661016949152
+Sinan Mah.,100.0,90.0,2+1,Between 5-10,3,5.0,Air conditioning,2.0,1,1,Open Parking Lot,1,0,0,75000,847.457627118644
+Fener Mah.,100.0,75.0,2+1,Between 21-25,1,4.0,Air conditioning,1.0,1,0,None,1,0,0,22000,745.7627118644068
+Meydankavagi Mh.,180.0,170.0,3+1,Between 16-20,7,10.0,Air conditioning,3.0,1,1,Open Parking Lot,1,1,1000,30000,1016.9491525423729
+Yesilbahce Mh.,60.0,48.0,1+1,Between 11-15,Ground floor,8.0,Air conditioning,1.0,0,1,Open & Closed Parking Lot,0,0,200,13500,457.6271186440678
+Caglayan Mh.,160.0,150.0,3+1,Between 11-15,4,10.0,Combi Boiler (Natural Gas),1.0,1,1,Open Parking Lot,1,1,0,0,1101.6949152542372
+Guzeloba Mh.,90.0,85.0,2+1,Between 11-15,High Entry,4.0,Air conditioning,2.0,1,1,Open Parking Lot,1,1,1000,35000,1016.9491525423729
+Sedir Mah.,120.0,100.0,2+1,Between 21-25,2,4.0,Air conditioning,1.0,1,0,Open Parking Lot,0,0,100,14000,406.77966101694915
+Kizilarik Mh.,135.0,130.0,3+1,0,4,4.0,Air conditioning,1.0,1,1,Parking Garage,0,0,150,16000,542.3728813559322
+Guzeloluk Mh.,115.0,110.0,2+1,Between 11-15,2,7.0,Air conditioning,2.0,1,1,Open Parking Lot,0,1,0,0,1016.9491525423729
+Etiler Mah.,140.0,135.0,1+1,Between 16-20,High Entry,3.0,None,1.0,1,0,Open Parking Lot,0,0,0,9500,508.47457627118644
+Guzeloba Mh.,100.0,95.0,2+1,3,1,2.0,Air conditioning,2.0,1,0,Open Parking Lot,1,1,1000,25000,1016.9491525423729
+Demircikara Mah.,120.0,115.0,2+1,Between 26-30,3,3.0,Air conditioning,1.0,1,0,None,0,0,50,35000,593.2203389830509
+Guzeloba Mh.,120.0,100.0,2+1,0,2,2.0,Underfloor Heating,2.0,1,0,Open Parking Lot,1,0,20,15000,932.2033898305085
+Gebizli Mah.,95.0,80.0,2+1,Between 5-10,High Entry,4.0,Air conditioning,1.0,1,1,Open Parking Lot,1,0,0,17000,576.271186440678
+Bayindir Mh.,75.0,65.0,1+1,Between 5-10,3,5.0,Air conditioning,1.0,1,1,Open Parking Lot,1,0,0,0,440.6779661016949
+Muratpasa Mh.,95.0,90.0,2+1,Between 11-15,2,4.0,Air conditioning,1.0,1,1,Open Parking Lot,0,0,200,16000,542.3728813559322
+Kiziltoprak Mh.,90.0,78.0,2+1,Between 11-15,4,4.0,Air conditioning,1.0,1,0,Open Parking Lot,0,0,0,16000,491.52542372881356
+Yesildere Mh.,135.0,125.0,3+1,Between 11-15,2,4.0,Air conditioning,1.0,1,1,Open Parking Lot,0,0,0,13000,440.6779661016949
+Sirinyalı Mh.,85.0,75.0,2+1,Between 5-10,1,5.0,Air conditioning,2.0,1,1,None,0,0,1000,0,644.0677966101695
+Bayindir Mh.,150.0,140.0,3+1,Between 16-20,4,10.0,Air conditioning,1.0,1,1,Open Parking Lot,0,0,0,16000,576.271186440678
+Selcuk Mh.,45.0,40.0,1+1,Between 11-15,5,5.0,Air conditioning,1.0,1,0,Open Parking Lot,1,0,100,15000,508.47457627118644
+Yenigun Mh.,140.0,130.0,3+1,2,4,4.0,Boiler (Electric),1.0,1,1,Open Parking Lot,1,0,0,0,881.3559322033898
+Zerdalilik Mah.,190.0,175.0,3+1,31 and over,2,4.0,Air conditioning,1.0,1,0,Open Parking Lot,0,0,300,30000,813.5593220338983
+Kizilarik Mh.,150.0,140.0,3+1,4,3,4.0,Air conditioning,1.0,1,1,Open & Closed Parking Lot,1,0,200,21000,711.8644067796611
+Altindag Mh.,95.0,90.0,1+1,3,High Entry,5.0,Air conditioning,1.0,1,1,Open Parking Lot,0,0,0,0,474.5762711864407
+Caglayan Mh.,95.0,90.0,2+1,Between 11-15,1,2.0,Air conditioning,2.0,1,0,None,0,0,0,28000,949.1525423728814
+Yesilbahce Mh.,190.0,180.0,3+1,Between 21-25,5,9.0,Combi Boiler (Natural Gas),2.0,1,1,Open Parking Lot,0,0,1100,30000,1016.9491525423729
+Hospitable Mah.,100.0,90.0,2+1,Between 5-10,3,3.0,Air conditioning,1.0,1,0,Open Parking Lot,1,0,100,20000,677.9661016949152
+Guzeloba Mh.,85.0,80.0,2+1,Between 5-10,2,2.0,Air conditioning,2.0,1,0,Open Parking Lot,1,1,1200,50000,847.457627118644
+Sinan Mah.,125.0,120.0,3+1,Between 21-25,3,5.0,Air conditioning,1.0,1,0,None,0,0,0,14500,440.6779661016949
+Barracks Mh.,65.0,60.0,1+1,Between 5-10,2,4.0,Air conditioning,1.0,0,1,None,1,0,0,0,501.6949152542373
+Guzeloba Mh.,45.0,40.0,1+1,1,High Entry,1.0,Air conditioning,1.0,1,0,Open Parking Lot,1,0,200,30000,508.47457627118644
+Guzeloba Mh.,60.0,50.0,1+1,2,Garden Floor,3.0,Air conditioning,1.0,1,1,Parking Garage,1,1,0,0,677.9661016949152
+Soguksu Mh.,60.0,50.0,1+1,4,3,6.0,Combi Boiler (Natural Gas),1.0,1,1,None,1,0,1,20000,640.6779661016949
+Yuksekalan Mh.,70.0,65.0,1+1,Between 21-25,3,7.0,Air conditioning,1.0,0,1,None,1,0,100,30000,491.52542372881356
+Guzeloba Mh.,105.0,100.0,2+1,Between 5-10,3,3.0,Air conditioning,1.0,1,1,Parking Garage,1,1,500,27500,932.2033898305085
+Varlik Mh.,130.0,120.0,3+1,Between 26-30,1,7.0,Air conditioning,1.0,1,1,None,0,0,0,20500,694.9152542372881
+Topcular Mh.,55.0,50.0,1+1,0,5,8.0,Air conditioning,1.0,1,1,Open Parking Lot,1,0,1250,17000,576.271186440678
+Guzeloba Mh.,110.0,100.0,2+1,Between 21-25,3,3.0,Air conditioning,1.0,1,0,None,1,0,100,22000,745.7627118644068
+Guzeloba Mh.,65.0,60.0,1+1,Between 5-10,1,8.0,Air conditioning,1.0,0,1,Open Parking Lot,0,1,1000,16000,542.3728813559322
+Kizilarik Mh.,140.0,130.0,3+1,Between 5-10,2,4.0,Combi Boiler (Natural Gas),1.0,1,1,Open Parking Lot,1,0,200,15000,627.1186440677966
+Officers' Houses Mah.,150.0,140.0,3+1,Between 26-30,6,8.0,None,1.0,1,1,None,0,0,0,0,508.47457627118644
+Guzeloba Mh.,135.0,130.0,3+1,Between 5-10,1,2.0,Air conditioning,1.0,1,0,None,0,0,150,20000,677.9661016949152
+Meydankavagi Mh.,130.0,105.0,3+1,Between 16-20,9,9.0,Air conditioning,1.0,1,1,Open Parking Lot,1,1,600,65000,728.8135593220339
+Demircikara Mah.,70.0,65.0,2+1,Between 26-30,Garden Floor,3.0,None,1.0,0,0,None,0,0,50,24000,406.77966101694915
+Bahcelievler Mh.,240.0,230.0,4+1,1,5,5.0,Air conditioning,3.0,1,1,Open Parking Lot,1,1,0,80000,1355.9322033898304
+Youth Mh.,110.0,100.0,2+1,Between 26-30,3,4.0,Air conditioning,1.0,1,1,Open Parking Lot,0,0,0,20000,677.9661016949152
+Gebizli Mah.,90.0,85.0,2+1,Between 5-10,4,4.0,Air conditioning,1.0,1,0,None,0,0,50,12000,406.77966101694915
+Varlik Mh.,120.0,110.0,2+1,Between 21-25,1,5.0,Air conditioning,1.0,1,1,Open Parking Lot,0,0,0,30000,508.47457627118644
+Zerdalilik Mah.,83.0,75.0,2+1,0,1,3.0,Combi Boiler (Natural Gas),2.0,1,1,Parking Garage,1,0,0,0,1016.9491525423729
+Caglayan Mh.,165.0,150.0,3+1,Between 5-10,4,6.0,Combi Boiler (Natural Gas),2.0,1,1,Open Parking Lot,1,1,0,110000,1864.406779661017
+Gebizli Mah.,100.0,90.0,2+1,Between 5-10,3,4.0,Air conditioning,1.0,1,1,Open Parking Lot,0,0,0,0,474.5762711864407
+Kizilarik Mh.,110.0,100.0,2+1,2,High Entry,4.0,Air conditioning,1.0,1,1,Open Parking Lot,0,0,100,20000,542.3728813559322
+Republic Mah.,140.0,130.0,3+1,Between 21-25,4,5.0,None,1.0,1,0,Open Parking Lot,0,0,0,12000,406.77966101694915
+Sirinyalı Mh.,165.0,145.0,3+1,Between 21-25,2,4.0,Combi Boiler (Natural Gas),2.0,1,0,Open Parking Lot,1,0,200,26500,898.3050847457627
+Yesilbahce Mh.,85.0,75.0,2+1,Between 16-20,Ground floor,8.0,Air conditioning,1.0,1,1,Open Parking Lot,1,1,0,0,677.9661016949152
+Meydankavagi Mh.,70.0,65.0,2+1,Between 5-10,Ground floor,4.0,Air conditioning,1.0,1,1,Open Parking Lot,0,0,0,0,491.52542372881356
+Caglayan Mh.,100.0,90.0,2+1,0,2,3.0,Combi Boiler (Natural Gas),1.0,1,0,Open Parking Lot,1,0,0,0,1864.406779661017
+Yenigun Mh.,145.0,125.0,3+1,Between 21-25,3,3.0,Air conditioning,1.0,1,0,Open Parking Lot,0,0,100,15000,491.52542372881356
+Guzeloba Mh.,90.0,80.0,2+1,Between 5-10,1,2.0,Air conditioning,1.0,1,0,Open Parking Lot,0,1,650,21000,711.8644067796611
+Altindag Mh.,35.0,30.0,1+1,Between 26-30,Ground floor,4.0,Air conditioning,1.0,0,0,None,0,0,0,22000,372.8813559322034
+Guzeloba Mh.,220.0,195.0,4+1,Between 21-25,7,7.0,Central,3.0,1,1,Open Parking Lot,1,1,0,0,2440.677966101695
+Meltem Mah.,140.0,130.0,3+1,Between 21-25,2,8.0,Air conditioning,1.0,1,1,Open Parking Lot,0,1,500,44000,745.7627118644068
+Caglayan Mh.,395.0,370.0,5+2,Between 11-15,4,4.0,Combi Boiler (Natural Gas),4.0,1,1,Open Parking Lot,1,0,75,100000,1355.9322033898304
+Meydankavagi Mh.,180.0,160.0,3+1,Between 11-15,2,4.0,Air conditioning,1.0,1,1,Open Parking Lot,1,0,50,30000,1016.9491525423729
+Varlik Mh.,45.0,40.0,1+1,Between 11-15,Ground floor,4.0,Air conditioning,1.0,1,0,Open Parking Lot,1,0,30,12000,406.77966101694915
+Meydankavagi Mh.,140.0,130.0,3+1,Between 11-15,2,4.0,Air conditioning,2.0,1,0,Open Parking Lot,1,0,0,0,661.0169491525423
+Yenigun Mh.,110.0,100.0,2+1,2,1,4.0,Air conditioning,2.0,1,1,Parking Garage,1,1,500,40000,847.457627118644
+Guzeloba Mh.,115.0,100.0,2+1,Between 5-10,3,3.0,Combi Boiler (Natural Gas),2.0,1,1,Parking Garage,1,1,0,0,1864.406779661017
+Kircami Mh.,260.0,250.0,3+1,Between 11-15,5,10.0,Air conditioning,1.0,1,1,Open Parking Lot,1,0,0,25000,847.457627118644
+Meltem Mah.,80.0,70.0,2+1,Between 16-20,10,15.0,Air conditioning,1.0,1,1,Open Parking Lot,0,1,0,0,508.47457627118644
+Sea District.,180.0,170.0,3+1,Between 5-10,3,5.0,Combi Boiler (Natural Gas),3.0,1,1,Open Parking Lot,1,0,500,80000,1694.915254237288
+Bayindir Mh.,160.0,150.0,3+1,Between 16-20,3,7.0,Air conditioning,1.0,1,1,Open Parking Lot,0,0,200,25000,847.457627118644
+Guzeloba Mh.,100.0,75.0,2+1,Between 5-10,2,3.0,Air conditioning,1.0,1,1,Parking Garage,1,1,1100,80000,847.457627118644
+Sirinyalı Mh.,175.0,150.0,3+1,Between 16-20,3,5.0,None,2.0,1,1,Open Parking Lot,0,1,1000,100000,1864.406779661017
+Caglayan Mh.,90.0,85.0,2+1,Between 16-20,9,13.0,Air conditioning,1.0,1,1,Open Parking Lot,1,1,1600,25000,677.9661016949152
+Caglayan Mh.,196.0,190.0,3+1,Between 11-15,2,6.0,Combi Boiler (Natural Gas),2.0,1,1,Parking Garage,0,0,0,60000,2033.8983050847457
+Guzeloba Mh.,55.0,40.0,1+1,0,High Entry,2.0,Combi Boiler (Natural Gas),1.0,1,1,None,1,0,0,20000,677.9661016949152
+Altindag Mh.,120.0,115.0,3+1,Between 26-30,1,4.0,Air conditioning,1.0,1,1,Open Parking Lot,1,0,0,25000,508.47457627118644
+Kizilarik Mh.,70.0,60.0,2+1,Between 16-20,High Entry,4.0,Air conditioning,1.0,1,0,Open Parking Lot,1,0,50,15000,508.47457627118644
+Sirinyalı Mh.,250.0,220.0,3+1,Between 16-20,Penthouse,2.0,Air conditioning,2.0,1,0,None,0,0,0,60000,1016.9491525423729
+Kiziltoprak Mh.,155.0,145.0,3+1,Between 5-10,1,5.0,Air conditioning,2.0,1,1,Open Parking Lot,1,0,0,23000,915.2542372881356
+Caglayan Mh.,65.0,60.0,1+1,Between 21-25,2,2.0,Air conditioning,1.0,0,0,None,0,0,75,25000,847.457627118644
+Gebizli Mah.,75.0,70.0,2+1,Between 5-10,High Entry,4.0,Air conditioning,1.0,0,1,Open Parking Lot,1,0,0,14000,474.5762711864407
+Guzeloba Mh.,150.0,130.0,4+1,3,1,3.0,Combi Boiler (Natural Gas),2.0,1,0,None,0,0,0,25000,847.457627118644
+Hospitable Mah.,75.0,65.0,2+0,Between 5-10,High Entry,3.0,Air conditioning,1.0,1,0,Open Parking Lot,0,0,0,11000,372.8813559322034
+Sedir Mah.,95.0,85.0,2+1,Between 5-10,High Entry,5.0,Air conditioning,1.0,0,1,Open Parking Lot,0,0,0,11000,406.77966101694915
+Caglayan Mh.,80.0,60.0,1+1,Between 5-10,1,2.0,Air conditioning,1.0,1,0,Open Parking Lot,0,0,0,0,1016.9491525423729
+Guzeloba Mh.,165.0,145.0,3+1,Between 16-20,1,4.0,Combi Boiler (Natural Gas),1.0,1,1,Open Parking Lot,1,0,100,0,1559.322033898305
+Guzeloba Mh.,100.0,90.0,2+1,Between 16-20,3,9.0,Air conditioning,1.0,1,1,Open Parking Lot,1,0,0,19000,644.0677966101695
+Altindag Mh.,105.0,90.0,2+1,31 and over,2,5.0,Air conditioning,1.0,1,0,None,0,0,0,0,432.20338983050846
+Yuksekalan Mh.,100.0,90.0,2+1,0,3,3.0,Air conditioning,1.0,1,1,Open & Closed Parking Lot,0,1,0,0,677.9661016949152
+Caglayan Mh.,170.0,160.0,3+1,Between 21-25,1,4.0,Air conditioning,1.0,1,0,Open Parking Lot,0,0,150,22000,677.9661016949152
+Bayindir Mh.,145.0,130.0,3+1,Between 21-25,3,4.0,Air conditioning,1.0,1,0,Open Parking Lot,1,0,100,18000,610.1694915254237
+Guzeloba Mh.,115.0,105.0,2+1,Between 5-10,1,2.0,Air conditioning,2.0,1,1,Parking Garage,0,1,1500,33000,1118.6440677966102
+Triangle Mh.,120.0,100.0,3+1,Between 26-30,Ground floor,5.0,Air conditioning,1.0,1,0,None,1,0,100,16000,542.3728813559322
+Yesilbahce Mh.,195.0,185.0,3.5+1,Between 16-20,5,10.0,Combi Boiler (Natural Gas),2.0,1,1,Open & Closed Parking Lot,1,1,1100,85000,1423.7288135593221
+Guzeloba Mh.,175.0,160.0,3+1,Between 21-25,6,12.0,Combi Boiler (Natural Gas),1.0,1,1,Open & Closed Parking Lot,0,1,0,50000,983.0508474576271
+Caglayan Mh.,175.0,160.0,3+1,Between 16-20,2,4.0,Air conditioning,1.0,1,1,Open Parking Lot,0,1,0,0,847.457627118644
+Guzeloba Mh.,85.0,80.0,1+1,Between 11-15,3,9.0,Floor Heating,1.0,1,1,Open Parking Lot,1,1,0,32000,1084.7457627118645
+Yesilbahce Mh.,240.0,220.0,4+1,Between 16-20,4,4.0,Air conditioning,3.0,1,1,Open Parking Lot,0,0,0,25000,847.457627118644
+Hospitable Mah.,80.0,70.0,2+1,0,2,5.0,Air conditioning,1.0,1,1,Open Parking Lot,0,0,200,15000,508.47457627118644
+Bahcelievler Mh.,50.0,45.0,1+1,Between 21-25,Ground floor,4.0,Air conditioning,1.0,1,0,Open Parking Lot,1,0,0,35000,593.2203389830509
+Caglayan Mh.,200.0,180.0,3+1,Between 26-30,4,4.0,Air conditioning,1.0,1,0,None,1,0,0,0,1186.4406779661017
+Yesilbahce Mh.,175.0,165.0,3+1,Between 26-30,9,9.0,Central,1.0,1,1,Open Parking Lot,0,0,1250,50000,1525.4237288135594
+Caglayan Mh.,350.0,280.0,4+1,Between 5-10,2,2.0,Air conditioning,2.0,1,0,Open Parking Lot,1,0,0,0,1864.406779661017
+Guzeloba Mh.,80.0,70.0,2+1,Between 21-25,Ground floor,6.0,Air conditioning,1.0,1,1,Open Parking Lot,1,1,550,50000,491.52542372881356
+Guzeloba Mh.,115.0,100.0,2+1,1,2,6.0,Underfloor Heating,2.0,1,1,Open & Closed Parking Lot,1,1,3000,200000,2033.8983050847457
+Guzeloba Mh.,160.0,150.0,3+1,Between 11-15,5,10.0,Combi Boiler (Natural Gas),1.0,1,1,Open Parking Lot,0,0,250,25000,847.457627118644
+Yuksekalan Mh.,100.0,95.0,2+1,Between 11-15,High Entry,4.0,None,1.0,1,1,Open Parking Lot,0,0,0,12000,406.77966101694915
+Fener Mah.,180.0,155.0,3+1,Between 21-25,12,12.0,Air conditioning,1.0,1,1,Open Parking Lot,0,0,500,30000,949.1525423728814
+Guzeloba Mh.,120.0,100.0,2+1,Between 26-30,1,1.0,Stove,1.0,1,0,Open Parking Lot,0,0,0,11000,406.77966101694915
+Fener Mah.,125.0,100.0,2+1,Between 11-15,8,8.0,Air conditioning,1.0,1,1,Open Parking Lot,1,0,400,0,677.9661016949152
+Republic Mah.,170.0,155.0,3+1,Between 26-30,1,4.0,None,1.0,1,1,Open Parking Lot,0,0,0,17500,576.271186440678
+Guzeloba Mh.,100.0,90.0,2+1,Between 16-20,3,9.0,Air conditioning,1.0,1,1,Open Parking Lot,0,0,0,17000,576.271186440678
+Caglayan Mh.,165.0,140.0,2+1,Between 16-20,6,10.0,Combi Boiler (Natural Gas),2.0,1,1,Open Parking Lot,1,1,1500,120000,2033.8983050847457
+Guzeloba Mh.,130.0,120.0,3+1,4,2,2.0,Air conditioning,2.0,1,0,Open Parking Lot,1,1,750,29000,983.0508474576271
+Sirinyalı Mh.,180.0,165.0,3+1,Between 21-25,3,8.0,Air conditioning,1.0,1,1,Open Parking Lot,0,0,150,30000,932.2033898305085
+Sinan Mah.,130.0,120.0,2+1,Between 26-30,5,6.0,Air conditioning,1.0,1,1,Open Parking Lot,1,0,0,0,881.3559322033898
+Caglayan Mh.,115.0,105.0,2+1,4,2,5.0,Air conditioning,2.0,1,1,Open & Closed Parking Lot,1,1,1000,0,1355.9322033898304
+Fener Mah.,150.0,135.0,3+1,Between 5-10,2,2.0,Air conditioning,2.0,1,0,None,0,0,0,0,932.2033898305085
+Yuksekalan Mh.,150.0,145.0,4+1,Between 11-15,3,4.0,Air conditioning,2.0,1,0,None,1,0,150,25000,847.457627118644
+Fener Mah.,75.0,70.0,2+1,Between 11-15,Garden Floor,2.0,Air conditioning,1.0,1,1,Open Parking Lot,1,0,200,0,847.457627118644
+Sirinyalı Mh.,220.0,200.0,3+1,Between 11-15,10,15.0,Central,2.0,1,1,Parking Garage,1,1,0,0,2881.35593220339
+Meydankavagi Mh.,140.0,125.0,3+1,Between 21-25,1,10.0,None,1.0,1,1,Open Parking Lot,0,0,0,0,542.3728813559322
+Yesilbahce Mh.,175.0,160.0,3+1,Between 16-20,3,5.0,Air conditioning,1.0,1,1,Open Parking Lot,0,0,300,105000,1186.4406779661017
+Kizilarik Mh.,90.0,80.0,2+1,3,4,7.0,Air conditioning,1.0,1,1,Open & Closed Parking Lot,0,1,500,14000,474.5762711864407
+Yildiz Mh.,135.0,125.0,3+1,Between 16-20,1,4.0,Air conditioning,1.0,1,0,None,0,0,20,16000,508.47457627118644
+Guzeloba Mh.,110.0,100.0,2+1,Between 11-15,2,3.0,Air conditioning,1.0,1,0,Open Parking Lot,1,0,0,50000,847.457627118644
+Guzeloba Mh.,50.0,47.0,1+1,Between 5-10,High Entry,2.0,Air conditioning,1.0,1,0,Open Parking Lot,1,0,100,30000,610.1694915254237
+Caglayan Mh.,105.0,100.0,2+1,Between 5-10,6,14.0,Combi Boiler (Natural Gas),1.0,1,1,Open & Closed Parking Lot,0,0,0,1600,677.9661016949152
+Sinan Mah.,80.0,75.0,2+1,0,4,5.0,Air conditioning,1.0,1,0,Open Parking Lot,0,0,100,19000,677.9661016949152
+Yesilova Mh.,65.0,55.0,1+1,4,8,10.0,Air conditioning,1.0,1,1,Parking Garage,1,1,2100,30000,644.0677966101695
+Guzeloba Mh.,75.0,70.0,2+1,Between 11-15,High Entry,4.0,Combi Boiler (Natural Gas),1.0,1,0,Open Parking Lot,0,0,0,0,440.6779661016949
+Caglayan Mh.,75.0,70.0,1+1,4,High Entry,4.0,Air conditioning,1.0,1,1,Open Parking Lot,1,0,0,20000,677.9661016949152
+Barracks Mh.,60.0,50.0,1+1,2,1,4.0,Air conditioning,1.0,0,1,Open Parking Lot,1,0,0,26000,440.6779661016949
+Sirinyalı Mh.,185.0,170.0,3+1,Between 11-15,15,15.0,Combi Boiler (Natural Gas),2.0,1,1,Open & Closed Parking Lot,0,1,7000,100000,2372.8813559322034
+Bayindir Mh.,50.0,40.0,1+1,Between 5-10,5,5.0,None,1.0,1,1,Open Parking Lot,0,0,250,15000,474.5762711864407
+Yesildere Mh.,120.0,110.0,2+1,4,High Entry,4.0,Combi Boiler (Natural Gas),1.0,1,1,Open Parking Lot,0,1,150,0,491.52542372881356
+Sinan Mah.,95.0,85.0,2+1,2,1,4.0,Air conditioning,1.0,1,1,Parking Garage,0,1,500,20000,677.9661016949152
+Sirinyalı Mh.,220.0,200.0,3+1,Between 11-15,Penthouse,2.0,Air conditioning,2.0,1,0,Parking Garage,0,1,0,70000,1355.9322033898304
+Caglayan Mh.,220.0,200.0,3+1,Between 16-20,5,8.0,Combi Boiler (Natural Gas),2.0,1,1,Open Parking Lot,1,0,0,30000,1016.9491525423729
+Kiziltoprak Mh.,85.0,75.0,2+1,0,2,3.0,Air conditioning,1.0,1,1,Open Parking Lot,0,0,0,0,644.0677966101695
+Kiziltoprak Mh.,150.0,140.0,3+1,Between 5-10,2,4.0,Air conditioning,1.0,1,1,Open Parking Lot,0,0,0,0,661.0169491525423
+Guzeloba Mh.,165.0,155.0,3+1,Between 16-20,9,11.0,Air conditioning,2.0,1,1,Open Parking Lot,1,1,75,20000,677.9661016949152
+Fener Mah.,75.0,65.0,1+1,Between 11-15,Garden Floor,2.0,Air conditioning,1.0,1,0,None,1,0,0,18000,576.271186440678
+Muratpasa Mh.,90.0,75.0,2+1,31 and over,3,3.0,Air conditioning,1.0,1,0,None,1,0,0,28000,474.5762711864407
+Ermenek Mah.,80.0,70.0,1+1,Between 16-20,1,1.0,Air conditioning,1.0,1,0,Open Parking Lot,1,0,0,19500,652.542372881356
+Varlik Mh.,160.0,150.0,3+1,Between 26-30,6,7.0,Air conditioning,2.0,1,1,None,0,0,0,20000,677.9661016949152
+Guzeloba Mh.,70.0,65.0,1+1,Between 11-15,High Entry,6.0,Combi Boiler (Natural Gas),1.0,1,1,Open Parking Lot,1,1,1000,19000,644.0677966101695
+Muratpasa Mh.,140.0,130.0,3+1,Between 21-25,4,4.0,Air conditioning,1.0,1,0,Open Parking Lot,0,0,0,13000,440.6779661016949
+Doguyaka Mh.,60.0,50.0,1+1,Between 5-10,Penthouse,5.0,Air conditioning,1.0,1,1,Open Parking Lot,1,0,250,11500,389.8305084745763
+Zerdalilik Mah.,180.0,160.0,5+2,31 and over,4,4.0,Air conditioning,2.0,1,0,None,0,0,0,20000,677.9661016949152
+Sirinyalı Mh.,170.0,160.0,3+1,Between 11-15,10,12.0,Combi Boiler (Natural Gas),2.0,1,1,Open Parking Lot,1,0,0,50000,1694.915254237288
+Etiler Mah.,110.0,100.0,2+1,Between 21-25,6,6.0,Air conditioning,1.0,1,1,None,0,0,100,16000,542.3728813559322
+Kizilsaray Mh.,210.0,200.0,3+1,31 and over,5,5.0,Air conditioning,1.0,1,1,None,1,0,0,2100,915.2542372881356
+Guzeloba Mh.,85.0,70.0,2+1,Between 16-20,9,12.0,Air conditioning,1.0,1,1,Parking Garage,1,1,900,35000,1186.4406779661017
+Officers' Houses Mah.,130.0,110.0,3+1,Between 26-30,3,4.0,None,1.0,1,0,None,0,0,0,13500,457.6271186440678
+Muratpasa Mh.,140.0,130.0,3+1,Between 21-25,3,4.0,None,1.0,1,0,Open Parking Lot,0,0,0,13000,440.6779661016949
+Kizilarik Mh.,140.0,135.0,3+1,Between 11-15,3,4.0,Combi Boiler (Natural Gas),2.0,1,0,Open Parking Lot,1,0,0,18000,610.1694915254237
+Caglayan Mh.,180.0,170.0,3+1,Between 21-25,1,7.0,Air conditioning,2.0,1,1,Open Parking Lot,0,1,0,25000,771.1864406779661
+Varlik Mh.,150.0,140.0,3+1,Between 26-30,1,7.0,Air conditioning,1.0,1,1,Open Parking Lot,0,0,0,25000,745.7627118644068
+Yesilbahce Mh.,220.0,200.0,3+1,Between 11-15,15,15.0,Combi Boiler (Natural Gas),2.0,1,1,Parking Garage,1,1,4000,175000,2966.101694915254
+Caglayan Mh.,180.0,150.0,3+1,Between 11-15,2,2.0,Air conditioning,2.0,1,0,None,1,0,250,66000,1118.6440677966102
+Bayindir Mh.,70.0,60.0,1+1,Between 5-10,5,5.0,Air conditioning,1.0,1,1,Open Parking Lot,1,0,0,0,457.6271186440678
+Barracks Mh.,65.0,60.0,1+1,Between 5-10,2,3.0,Air conditioning,1.0,0,1,None,1,0,0,0,535.5932203389831
+Bayindir Mh.,115.0,105.0,3+1,Between 16-20,2,4.0,Air conditioning,1.0,1,1,Open Parking Lot,1,0,0,0,610.1694915254237
+Guzeloba Mh.,75.0,70.0,1+1,Between 5-10,High Entry,3.0,Air conditioning,1.0,1,0,None,1,0,0,36000,610.1694915254237
+Yesilbahce Mh.,180.0,170.0,3+1,31 and over,10,10.0,Central,2.0,1,1,Open Parking Lot,0,0,1500,36000,1220.3389830508474
+Guzeloba Mh.,155.0,150.0,2+1,Between 5-10,2,2.0,Air conditioning,2.0,1,0,None,1,0,200,33000,1118.6440677966102
+Guzeloba Mh.,65.0,60.0,1+1,Between 5-10,Ground floor,2.0,Air conditioning,1.0,1,0,Open Parking Lot,1,1,250,18000,610.1694915254237
+Sinan Mah.,110.0,100.0,2+1,Between 26-30,Ground floor,4.0,Air conditioning,1.0,1,0,Open Parking Lot,1,0,0,0,508.47457627118644
+Soguksu Mh.,55.0,45.0,1+1,4,2,6.0,Air conditioning,1.0,1,1,Open Parking Lot,1,0,0,0,644.0677966101695
+Guzeloba Mh.,140.0,100.0,3+1,Between 16-20,4,9.0,Combi Boiler (Natural Gas),2.0,1,1,Open Parking Lot,0,1,200,20000,677.9661016949152
+Yenigun Mh.,70.0,60.0,1+1,Between 5-10,Ground floor,4.0,Air conditioning,1.0,1,0,Open Parking Lot,0,0,0,0,433.89830508474574
+Guzeloba Mh.,100.0,98.0,2+1,Between 16-20,2,4.0,Combi Boiler (Natural Gas),1.0,1,0,None,0,1,0,0,593.2203389830509
+Yuksekalan Mh.,115.0,100.0,2+1,Between 5-10,1,3.0,Air conditioning,1.0,1,0,Open Parking Lot,0,0,150,15000,508.47457627118644
+Muratpasa Mh.,85.0,75.0,2+1,Between 5-10,3,4.0,Air conditioning,1.0,1,1,Open Parking Lot,0,0,0,0,406.77966101694915
+Tahilpazari Mh.,70.0,55.0,1+1,Between 16-20,2,5.0,Air conditioning,1.0,0,1,None,1,0,350,34000,576.271186440678
+Bahcelievler Mh.,150.0,130.0,3+1,Between 21-25,6,7.0,Combi Boiler (Natural Gas),1.0,1,1,Open Parking Lot,1,0,0,30000,1016.9491525423729
+Caglayan Mh.,180.0,170.0,3+1,Between 21-25,1,7.0,Air conditioning,2.0,1,1,Open Parking Lot,0,1,0,25000,796.6101694915254
+Kizilsaray Mh.,220.0,200.0,3+1,Between 21-25,6,6.0,Air conditioning,1.0,1,1,None,1,0,100,25000,847.457627118644
+Guzeloba Mh.,65.0,60.0,1+1,Between 11-15,1,2.0,Air conditioning,1.0,0,0,Open Parking Lot,1,1,0,18000,610.1694915254237
+Hospitable Mah.,110.0,90.0,2+1,Between 5-10,5,5.0,None,1.0,1,0,None,1,0,200,0,474.5762711864407
+Officers' Houses Mah.,200.0,170.0,3+1,Between 26-30,4,4.0,None,1.0,1,0,None,0,0,200,13000,440.6779661016949
+Guzeloba Mh.,85.0,75.0,2+1,Between 11-15,Garden Floor,3.0,Air conditioning,1.0,1,1,Open Parking Lot,1,0,120,36000,576.271186440678
+Bahcelievler Mh.,115.0,105.0,2+1,Between 11-15,3,7.0,Air conditioning,1.0,1,1,None,1,0,400,20000,677.9661016949152
+Muratpasa Mh.,90.0,70.0,2+1,Between 16-20,1,4.0,Air conditioning,1.0,1,0,Open Parking Lot,0,0,80,12000,406.77966101694915
+Guzeloba Mh.,55.0,50.0,1+1,0,High Entry,2.0,Air conditioning,1.0,1,1,Open Parking Lot,1,0,0,20000,677.9661016949152
+Yesildere Mh.,110.0,100.0,3+1,Between 5-10,3,4.0,Air conditioning,1.0,1,0,Open Parking Lot,0,1,500,12000,406.77966101694915
+Gebizli Mah.,85.0,75.0,2+1,Between 5-10,1,4.0,Air conditioning,1.0,1,1,Open Parking Lot,0,0,0,12000,406.77966101694915
+Guzeloba Mh.,65.0,55.0,2+1,2,Penthouse,3.0,Air conditioning,2.0,1,0,Open & Closed Parking Lot,1,1,0,0,1305.084745762712
+Security Mh.,60.0,50.0,1+1,Between 21-25,4,4.0,Air conditioning,1.0,1,0,Open Parking Lot,0,0,100,11000,372.8813559322034
+Yildiz Mh.,110.0,100.0,2+1,Between 16-20,2,3.0,Air conditioning,1.0,1,0,Open Parking Lot,1,0,0,14000,474.5762711864407
+Fener Mah.,190.0,180.0,3+1,Between 11-15,1,13.0,Combi Boiler (Natural Gas),2.0,1,1,Open Parking Lot,1,0,0,0,881.3559322033898
+Guzeloba Mh.,110.0,95.0,2+1,Between 11-15,1,2.0,Air conditioning,1.0,1,0,None,1,1,350,16000,542.3728813559322
+Kizilarik Mh.,110.0,100.0,2+1,3,2,4.0,None,1.0,1,1,Open Parking Lot,0,0,0,15000,508.47457627118644
+Sedir Mah.,90.0,80.0,2+1,Between 5-10,4,5.0,Air conditioning,1.0,1,1,Open Parking Lot,0,0,0,15000,508.47457627118644
+Caglayan Mh.,62.0,52.0,1+1,Between 5-10,2,3.0,Air conditioning,1.0,0,0,Open Parking Lot,1,0,0,0,949.1525423728814
+Yildiz Mh.,150.0,135.0,3+1,Between 21-25,4,5.0,Air conditioning,1.0,1,0,Open Parking Lot,0,0,0,13500,440.6779661016949
+Hospitable Mah.,135.0,125.0,3+1,31 and over,2,4.0,Air conditioning,1.0,1,0,Open Parking Lot,0,0,0,0,372.8813559322034
+Caybasi Mh.,60.0,55.0,1+1,Between 5-10,Garden Floor,5.0,Air conditioning,1.0,1,1,None,1,0,0,28000,525.4237288135594
+Bayindir Mh.,150.0,145.0,3+1,Between 16-20,3,5.0,Air conditioning,1.0,1,0,Open Parking Lot,1,0,0,25000,847.457627118644
+Sirinyalı Mh.,160.0,150.0,3+1,Between 11-15,2,5.0,Floor Heating,2.0,1,1,Open Parking Lot,1,0,0,0,1186.4406779661017
+Hospitable Mah.,140.0,130.0,3+1,Between 16-20,2,3.0,Air conditioning,1.0,1,0,Open Parking Lot,0,0,0,0,474.5762711864407
+Meltem Mah.,145.0,140.0,3+1,Between 11-15,4,8.0,Combi Boiler (Natural Gas),1.0,1,1,Open Parking Lot,1,0,0,0,915.2542372881356
+Guzeloba Mh.,50.0,45.0,1+1,4,Garden Floor,2.0,Air conditioning,1.0,1,0,None,1,1,2000,15000,508.47457627118644
+Kizilarik Mh.,90.0,80.0,2+1,Between 5-10,High Entry,4.0,Combi Boiler (Natural Gas),1.0,1,1,Open Parking Lot,0,1,0,0,389.8305084745763
+Fener Mah.,60.0,60.0,1+1,Between 11-15,Garden Floor,4.0,Air conditioning,1.0,1,0,None,1,0,0,15000,508.47457627118644
+Caglayan Mh.,180.0,160.0,3+1,Between 16-20,4,10.0,Combi Boiler (Natural Gas),1.0,1,1,Open Parking Lot,0,1,1000,30000,1016.9491525423729
+Guzeloba Mh.,85.0,80.0,2+1,Between 16-20,7,12.0,Air conditioning,1.0,1,1,Open Parking Lot,1,1,500,19000,644.0677966101695
+Yesildere Mh.,140.0,130.0,2+1,Between 5-10,High Entry,5.0,Central,2.0,1,1,Open Parking Lot,1,0,0,20000,508.47457627118644
+Guzeloluk Mh.,95.0,90.0,1+1,4,Garden Floor,4.0,Combi Boiler (Natural Gas),1.0,1,1,Open & Closed Parking Lot,1,1,1500,100000,1186.4406779661017
+Guzeloba Mh.,70.0,60.0,1+1,Between 11-15,Garden Floor,6.0,Combi Boiler (Natural Gas),1.0,1,1,Open Parking Lot,1,1,1000,19000,644.0677966101695
+Sea District.,105.0,85.0,2+1,Between 5-10,2,4.0,Air conditioning,1.0,1,1,Parking Garage,0,1,700,23000,779.6610169491526
+Officers' Houses Mah.,95.0,90.0,2+1,Between 11-15,Garden Floor,5.0,Air conditioning,1.0,1,0,Open Parking Lot,1,0,0,12000,440.6779661016949
+Kizilarik Mh.,90.0,85.0,2+1,Between 11-15,High Entry,4.0,Air conditioning,1.0,1,1,Open Parking Lot,0,0,100,11500,372.8813559322034
+Altindag Mh.,135.0,125.0,3+1,Between 16-20,4,4.0,Combi Boiler (Natural Gas),1.0,1,0,Parking Garage,1,0,30,0,677.9661016949152
+Guzeloba Mh.,85.0,40.0,Studio (1+0),Between 5-10,2,3.0,Air conditioning,1.0,1,0,Open Parking Lot,1,0,0,0,406.77966101694915
+Guzeloba Mh.,50.0,45.0,1+1,Between 5-10,High Entry,2.0,Air conditioning,1.0,1,0,None,1,1,50,40000,593.2203389830509
+Youth Mh.,150.0,135.0,3+1,31 and over,3,4.0,Air conditioning,1.0,1,0,None,0,0,0,0,847.457627118644
+Guzeloba Mh.,45.0,40.0,1+1,2,1,3.0,Air conditioning,1.0,1,1,Parking Garage,1,1,0,0,677.9661016949152
+Muratpasa Mh.,140.0,120.0,2+1,Between 11-15,1,4.0,Air conditioning,2.0,1,0,Open Parking Lot,0,0,60,25000,677.9661016949152
+Kizilarik Mh.,80.0,70.0,2+1,Between 11-15,High Entry,3.0,Air conditioning,1.0,1,1,Open Parking Lot,0,0,0,12000,406.77966101694915
+Gebizli Mah.,100.0,95.0,3+1,Between 5-10,High Entry,4.0,Combi Boiler (Natural Gas),1.0,1,1,Open Parking Lot,0,0,0,15900,440.6779661016949
+Caglayan Mh.,130.0,120.0,3+1,Between 5-10,1,5.0,Air conditioning,2.0,1,1,Open Parking Lot,1,0,300,80000,1355.9322033898304
+Triangle Mh.,140.0,130.0,3+1,Between 21-25,3,5.0,Solar Energy,1.0,1,0,Open Parking Lot,0,0,50,15000,508.47457627118644
+Fener Mah.,90.0,85.0,2+1,Between 5-10,Ground floor,6.0,Air conditioning,1.0,1,1,Open Parking Lot,0,0,150,40000,677.9661016949152
+Yesilbahce Mh.,225.0,190.0,3+1,Between 11-15,15,15.0,Combi Boiler (Natural Gas),2.0,1,1,Parking Garage,1,1,4000,0,2966.101694915254
+Sea District.,70.0,60.0,1+1,31 and over,4,4.0,Air conditioning,1.0,0,0,None,1,0,0,30000,508.47457627118644
+Guzeloba Mh.,55.0,45.0,1+1,Between 5-10,1,2.0,Air conditioning,1.0,1,0,Open Parking Lot,1,1,1750,0,745.7627118644068
+Etiler Mah.,100.0,90.0,2+1,Between 11-15,3,3.0,Air conditioning,1.0,1,0,Open Parking Lot,1,0,0,20000,677.9661016949152
+Caglayan Mh.,160.0,145.0,3+1,Between 16-20,3,5.0,Combi Boiler (Natural Gas),1.0,1,1,Open Parking Lot,1,0,0,45000,1203.3898305084747
+Yuksekalan Mh.,45.0,40.0,1+1,0,High Entry,4.0,Combi Boiler (Natural Gas),1.0,0,1,Open & Closed Parking Lot,0,1,0,15000,508.47457627118644
+Yenigun Mh.,140.0,130.0,3+1,Between 16-20,2,8.0,Air conditioning,1.0,1,1,Open Parking Lot,0,1,250,36000,593.2203389830509
+Guzelbag Mh.,110.0,100.0,2+1,Between 5-10,2,2.0,Air conditioning,2.0,0,1,None,1,0,400,55000,1016.9491525423729
+Guzeloba Mh.,120.0,110.0,2+1,Between 5-10,1,2.0,Air conditioning,2.0,0,1,Parking Garage,1,1,1800,60000,1525.4237288135594
+Meltem Mah.,155.0,145.0,3+1,Between 21-25,8,15.0,Air conditioning,2.0,1,1,Open Parking Lot,1,1,500,22500,762.7118644067797
+Sirinyalı Mh.,165.0,160.0,3+1,Between 11-15,7,10.0,None,2.0,1,1,Open Parking Lot,0,1,2000,25000,847.457627118644
+Gebizli Mah.,110.0,100.0,2+1,4,2,5.0,Central (Share Meter),2.0,1,1,Parking Garage,1,1,0,0,881.3559322033898
+Sirinyalı Mh.,175.0,165.0,3+1,Between 26-30,3,5.0,None,2.0,1,1,Open Parking Lot,0,0,0,0,677.9661016949152
+Gebizli Mah.,115.0,100.0,2+1,Between 5-10,4,4.0,Air conditioning,1.0,1,1,Open Parking Lot,0,0,0,15000,508.47457627118644
+Yenigun Mh.,80.0,70.0,2+1,Between 5-10,High Entry,3.0,Air conditioning,1.0,1,1,Open Parking Lot,1,0,0,15000,508.47457627118644
+Caglayan Mh.,160.0,135.0,3+1,Between 11-15,4,10.0,Combi Boiler (Natural Gas),1.0,1,1,Open Parking Lot,1,1,400,70000,1016.9491525423729
+Bayindir Mh.,185.0,165.0,4+1,Between 11-15,8,8.0,Combi Boiler (Natural Gas),1.0,1,1,Open & Closed Parking Lot,1,0,0,0,610.1694915254237
+Guzeloba Mh.,150.0,140.0,3+1,Between 11-15,8,11.0,Air conditioning,1.0,1,1,None,0,0,150,20000,677.9661016949152
+Guzeloba Mh.,120.0,100.0,2+1,Between 5-10,2,3.0,Air conditioning,2.0,1,1,Parking Garage,1,1,1200,80000,1355.9322033898304
+Barracks Mh.,55.0,50.0,1+1,Between 5-10,4,4.0,Air conditioning,1.0,1,1,None,1,0,0,0,535.5932203389831
+Meydankavagi Mh.,150.0,140.0,3+1,Between 16-20,1,4.0,None,2.0,1,1,Open Parking Lot,0,0,150,20000,644.0677966101695
+Triangle Mh.,180.0,160.0,4+1,4,4,4.0,Air conditioning,2.0,1,1,Open Parking Lot,0,0,0,0,847.457627118644
+Kizilarik Mh.,110.0,100.0,2+1,Between 5-10,2,4.0,Combi Boiler (Natural Gas),1.0,1,1,Open Parking Lot,0,1,0,0,474.5762711864407
+Caglayan Mh.,85.0,75.0,2+1,4,Ground floor,7.0,Combi Boiler (Natural Gas),1.0,1,1,Parking Garage,1,0,1800,45000,1016.9491525423729
+Sinan Mah.,125.0,110.0,3+1,31 and over,1,4.0,Air conditioning,1.0,1,0,Open Parking Lot,0,0,0,15000,508.47457627118644
+Bahcelievler Mh.,150.0,130.0,2+1,31 and over,5,5.0,Central,1.0,1,1,Open Parking Lot,0,0,1000,30000,847.457627118644
+Barracks Mh.,95.0,85.0,2+1,Between 11-15,1,3.0,Air conditioning,1.0,1,0,Open Parking Lot,0,0,0,15500,525.4237288135594
+Caglayan Mh.,70.0,65.0,1+1,3,1,3.0,Air conditioning,1.0,1,1,None,1,0,0,20000,677.9661016949152
+Guzeloba Mh.,50.0,45.0,1+1,Between 5-10,Garden Floor,2.0,Air conditioning,1.0,1,1,Open Parking Lot,1,0,0,29000,508.47457627118644
+Hospitable Mah.,120.0,105.0,2+1,Between 5-10,1,3.0,Air conditioning,2.0,1,0,Open Parking Lot,0,0,0,15000,508.47457627118644
+Barracks Mh.,130.0,115.0,3+1,Between 26-30,5,5.0,Air conditioning,2.0,1,0,Open Parking Lot,0,0,50,14000,457.6271186440678
+Guzeloba Mh.,85.0,75.0,2+1,Between 5-10,High Entry,4.0,Air conditioning,1.0,1,1,Open Parking Lot,1,1,400,22000,745.7627118644068
+Caglayan Mh.,100.0,90.0,2+1,Between 11-15,1,2.0,Air conditioning,1.0,1,0,Open Parking Lot,0,0,250,23000,779.6610169491526
+Muratpasa Mh.,55.0,52.0,1+1,0,2,4.0,Underfloor Heating,1.0,1,1,Open Parking Lot,1,0,300,20000,847.457627118644
+Guzeloba Mh.,135.0,125.0,3+1,Between 11-15,3,3.0,Combi Boiler (Natural Gas),2.0,1,0,Open Parking Lot,1,0,0,30000,1016.9491525423729
+Meydankavagi Mh.,180.0,170.0,3+1,Between 11-15,2,3.0,Combi Boiler (Natural Gas),2.0,1,1,Parking Garage,0,1,1250,80000,1355.9322033898304
+Caglayan Mh.,70.0,65.0,1+1,Between 5-10,2,4.0,Air conditioning,1.0,1,1,None,1,0,0,16000,486.4406779661017
+Caybasi Mh.,140.0,125.0,2+1,Between 16-20,1,7.0,Air conditioning,1.0,0,1,None,1,0,200,20000,847.457627118644
+Guzeloba Mh.,130.0,120.0,3+1,Between 5-10,2,3.0,Air conditioning,2.0,1,0,Open Parking Lot,0,0,1000,25000,847.457627118644
+Kizilarik Mh.,120.0,95.0,2+1,Between 5-10,2,6.0,Air conditioning,1.0,1,1,Open Parking Lot,0,1,200,15000,508.4406779661017
+Zerdalilik Mah.,95.0,85.0,2+1,2,High Entry,4.0,Combi Boiler (Natural Gas),1.0,1,1,Parking Garage,1,1,350,35000,1016.7796610169491
+Yesilbahce Mh.,125.0,115.0,2+1,Between 11-15,3,5.0,Combi Boiler (Natural Gas),1.0,1,1,Open Parking Lot,0,0,150,27000,915.2542372881356
+Sirinyalı Mh.,170.0,160.0,3+1,Between 21-25,6,10.0,None,1.0,1,1,Open Parking Lot,0,1,0,0,847.457627118644
+Caglayan Mh.,120.0,110.0,2+1,Between 16-20,15,15.0,Air conditioning,1.0,1,1,Open Parking Lot,0,1,1600,60000,1016.9491525423729
+Sirinyalı Mh.,90.0,80.0,2+1,Between 21-25,3,3.0,Air conditioning,1.0,1,0,Open Parking Lot,1,0,0,0,1355.9322033898304
+Bayindir Mh.,145.0,130.0,3+1,Between 26-30,1,4.0,None,1.0,1,0,Open Parking Lot,0,0,75,0,508.47457627118644
+Yesilbahce Mh.,150.0,140.0,3+1,31 and over,1,4.0,Air conditioning,1.0,1,0,Open Parking Lot,0,0,0,0,847.457627118644
+Kiziltoprak Mh.,160.0,150.0,3+1,Between 11-15,2,5.0,None,1.0,1,1,Open Parking Lot,0,1,0,20000,677.9661016949152
+Guzeloba Mh.,105.0,97.0,1+1,Between 5-10,2,2.0,Air conditioning,1.0,1,0,Open Parking Lot,1,0,0,40000,677.9661016949152
+Triangle Mh.,140.0,135.0,3+1,Between 26-30,6,6.0,Air conditioning,1.0,1,0,None,0,0,100,15000,508.47457627118644
+Sirinyalı Mh.,150.0,140.0,3+1,Between 11-15,2,5.0,None,2.0,1,1,Open Parking Lot,0,1,575,23000,779.6610169491526
+Guzeloba Mh.,45.0,40.0,1+1,Between 26-30,Ground floor,7.0,Air conditioning,1.0,0,1,Open Parking Lot,1,1,500,15000,474.5762711864407
+Sinan Mah.,120.0,100.0,3+1,Between 26-30,3,4.0,Air conditioning,2.0,1,0,None,0,0,100,15000,508.47457627118644
+Caglayan Mh.,200.0,180.0,4+1,Between 11-15,9,15.0,Combi Boiler (Natural Gas),3.0,1,1,Open Parking Lot,1,1,0,45000,1525.4237288135594
+Kizilarik Mh.,65.0,55.0,1+1,0,2,4.0,Air conditioning,1.0,1,1,Open Parking Lot,0,0,0,15000,457.6271186440678
+Barracks Mh.,150.0,135.0,3+1,3,5,6.0,Combi Boiler (Natural Gas),2.0,1,1,Parking Garage,0,0,500,50000,847.457627118644
+Altindag Mh.,180.0,155.0,3+1,Between 21-25,2,7.0,Air conditioning,1.0,1,1,Open Parking Lot,1,0,0,30000,737.2881355932203
+Meydankavagi Mh.,180.0,160.0,3+1,Between 21-25,3,8.0,Combi Boiler (Natural Gas),2.0,1,1,Open Parking Lot,0,0,500,33000,1000.0
+Varlik Mh.,150.0,130.0,2+1,2,6,6.0,Combi Boiler (Natural Gas),2.0,1,1,Open Parking Lot,1,0,0,30000,906.7796610169491
+Guzeloba Mh.,90.0,80.0,2+1,4,2,2.0,Air conditioning,1.0,1,0,Open Parking Lot,1,0,0,0,847.457627118644
+Fener Mah.,65.0,55.0,1+1,4,1,3.0,Air conditioning,1.0,0,1,Open Parking Lot,1,0,0,25000,847.457627118644
+Tahilpazari Mh.,110.0,95.0,2+1,Between 26-30,5,5.0,Air conditioning,1.0,1,0,Open Parking Lot,0,0,100,11000,372.8813559322034
+Kizilarik Mh.,125.0,112.0,2+1,4,1,5.0,Air conditioning,2.0,1,1,Open Parking Lot,1,1,1100,35000,603.3898305084746
+Guzeloba Mh.,60.0,50.0,1+1,Between 11-15,Garden Floor,2.0,Air conditioning,1.0,1,0,Open Parking Lot,1,1,0,0,440.6779661016949
+Meydankavagi Mh.,220.0,180.0,4+1,Between 11-15,4,5.0,None,2.0,1,1,Open Parking Lot,0,0,150,22000,745.7627118644068
+Guzeloba Mh.,115.0,105.0,2+1,Between 11-15,High Entry,2.0,Air conditioning,1.0,1,0,Open Parking Lot,1,0,200,25000,847.457627118644
+Fener Mah.,90.0,80.0,2+1,Between 21-25,Ground floor,15.0,Air conditioning,1.0,1,1,Parking Garage,0,1,1250,40000,677.9661016949152
+Yenigun Mh.,110.0,100.0,2+1,Between 11-15,4,4.0,Air conditioning,1.0,1,0,Open Parking Lot,0,0,50,13000,440.6779661016949
+Caglayan Mh.,150.0,140.0,3+1,Between 16-20,1,8.0,Combi Boiler (Natural Gas),1.0,1,1,Parking Garage,1,1,0,0,1016.9491525423729
+Yenigun Mh.,115.0,110.0,2+1,Between 11-15,2,5.0,Air conditioning,1.0,1,1,Open Parking Lot,0,0,150,16000,542.3728813559322
+Guzeloba Mh.,120.0,110.0,2+1,Between 16-20,2,3.0,Air conditioning,1.0,1,1,Open Parking Lot,0,0,250,16000,542.3728813559322
+Soguksu Mh.,170.0,160.0,3+1,Between 11-15,11,17.0,Combi Boiler (Natural Gas),1.0,1,1,Open & Closed Parking Lot,1,0,0,25000,847.457627118644
+Sirinyalı Mh.,220.0,200.0,5+1,Between 11-15,12,13.0,Air conditioning,2.0,1,1,Open Parking Lot,0,0,0,30000,1016.9491525423729
+Muratpasa Mh.,70.0,65.0,2+1,Between 5-10,Penthouse,5.0,Combi Boiler (Natural Gas),1.0,1,1,Open Parking Lot,1,0,500,20000,677.9661016949152
+Guzeloba Mh.,100.0,80.0,2+1,Between 16-20,1,4.0,Air conditioning,2.0,1,0,None,1,0,300,25000,593.2203389830509

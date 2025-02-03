@@ -1,0 +1,9 @@
+pandas
+streamlit
+joblib
+boto3
+python-dotenv
+Pillow
+scikit-learn==1.4.2
+xgboost
+lightgbm
