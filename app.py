@@ -5,6 +5,7 @@ import joblib
 import boto3
 from io import BytesIO
 from PIL import Image
+import time
 
 # ========================================
 # 1. AWS S3
@@ -158,7 +159,21 @@ def prepare_input_data():
 # 7. Кнопка предсказания и отображение результата
 # ========================================
 if st.sidebar.button("Predict Rent Price"):
+    progress_container = st.empty()
+    message_container = st.empty()
+
+    message_container.info("Calculating the estimated rent price...")
+    progress_bar = progress_container.progress(0)
+
+    for i in range(101):  # От 0 до 100
+        time.sleep(0.03)  # Общее время загрузки ≈ 3 секунды (0.03 * 100)
+        progress_bar.progress(i)
+
+    progress_container.empty()
+    message_container.empty()
+
     user_data = prepare_input_data()
     prediction = model.predict(user_data)[0]
 
     st.subheader(f"Predicted Monthly Rent: **{prediction:.2f} USD**")
+    st.balloons()
